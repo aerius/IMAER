@@ -1,0 +1,46 @@
+code;name;description
+OO100;Olietankers, overige tankers GT: 100-1599;Olietankers, overige tankers GT: 100-1599
+OO1600;Olietankers, overige tankers GT: 1600-2999;Olietankers, overige tankers GT: 1600-2999
+OO3000;Olietankers, overige tankers GT: 3000-4999;Olietankers, overige tankers GT: 3000-4999
+OO5000;Olietankers, overige tankers GT: 5000-9999;Olietankers, overige tankers GT: 5000-9999
+OO10000;Olietankers, overige tankers GT: 10000-29999;Olietankers, overige tankers GT: 10000-29999
+OO30000;Olietankers, overige tankers GT: 30000-59999;Olietankers, overige tankers GT: 30000-59999
+OO60000;Olietankers, overige tankers GT: 60000-99999;Olietankers, overige tankers GT: 60000-99999
+OO100000;Olietankers, overige tankers GT: ≥100000;Olietankers, overige tankers GT: ≥100000
+S100;Bulkschepen GT: 100-1599;Bulkschepen GT: 100-1599
+S1600;Bulkschepen GT: 1600-2999;Bulkschepen GT: 1600-2999
+S3000;Bulkschepen GT: 3000-4999;Bulkschepen GT: 3000-4999
+S5000;Bulkschepen GT: 5000-9999;Bulkschepen GT: 5000-9999
+S10000;Bulkschepen GT: 10000-29999;Bulkschepen GT: 10000-29999
+S30000;Bulkschepen GT: 30000-59999;Bulkschepen GT: 30000-59999
+S60000;Bulkschepen GT: 60000-99999;Bulkschepen GT: 60000-99999
+S100000;Bulkschepen GT: ≥100000;Bulkschepen GT: ≥100000
+CG100;Container, GDC (stukgoed), RoRo GT: 100-1599;Container, GDC (stukgoed), RoRo GT: 100-1599
+GC1600;Container, GDC (stukgoed), RoRo GT: 1600-2999;Container, GDC (stukgoed), RoRo GT: 1600-2999
+GC3000;Container, GDC (stukgoed), RoRo GT: 3000-4999;Container, GDC (stukgoed), RoRo GT: 3000-4999
+GC5000;Container, GDC (stukgoed), RoRo GT: 5000-9999;Container, GDC (stukgoed), RoRo GT: 5000-9999
+GC10000;Container, GDC (stukgoed), RoRo GT: 10000-29999;Container, GDC (stukgoed), RoRo GT: 10000-29999
+GC30000;Container, GDC (stukgoed), RoRo GT: 30000-59999;Container, GDC (stukgoed), RoRo GT: 30000-59999
+GC60000;Container, GDC (stukgoed), RoRo GT: 60000-99999;Container, GDC (stukgoed), RoRo GT: 60000-99999
+GC100000;Container, GDC (stukgoed), RoRo GT: ≥100000;Container, GDC (stukgoed), RoRo GT: ≥100000
+PS100;Passagiersschepen GT: 100-1599;Passagiersschepen GT: 100-1599
+PS1600;Passagiersschepen GT: 1600-2999;Passagiersschepen GT: 1600-2999
+PS3000;Passagiersschepen GT: 3000-4999;Passagiersschepen GT: 3000-4999
+PS5000;Passagiersschepen GT: 5000-9999;Passagiersschepen GT: 5000-9999
+PS10000;Passagiersschepen GT: 10000-29999;Passagiersschepen GT: 10000-29999
+PS30000;Passagiersschepen GT: 30000-59999;Passagiersschepen GT: 30000-59999
+PS60000;Passagiersschepen GT: 60000-99999;Passagiersschepen GT: 60000-99999
+PS100000;Passagiersschepen GT: ≥100000;Passagiersschepen GT: ≥100000
+KV100;Koelschepen en Vissersschepen GT: 100-1599;Koelschepen en Vissersschepen GT: 100-1599
+KV1600;Koelschepen en Vissersschepen GT: 1600-2999;Koelschepen en Vissersschepen GT: 1600-2999
+KV3000;Koelschepen en Vissersschepen GT: 3000-4999;Koelschepen en Vissersschepen GT: 3000-4999
+KV5000;Koelschepen en Vissersschepen GT: 5000-9999;Koelschepen en Vissersschepen GT: 5000-9999
+KV10000;Koelschepen en Vissersschepen GT: 10000-29999;Koelschepen en Vissersschepen GT: 10000-29999
+SW100;Sleepboten, werkschepen en overige GT: 100-1599;Sleepboten, werkschepen en overige GT: 100-1599
+SW1600;Sleepboten, werkschepen en overige GT: 1600-2999;Sleepboten, werkschepen en overige GT: 1600-2999
+SW3000;Sleepboten, werkschepen en overige GT: 3000-4999;Sleepboten, werkschepen en overige GT: 3000-4999
+SW5000;Sleepboten, werkschepen en overige GT: 5000-9999;Sleepboten, werkschepen en overige GT: 5000-9999
+SW10000;Sleepboten, werkschepen en overige GT: 10000-29999;Sleepboten, werkschepen en overige GT: 10000-29999
+SW30000;Sleepboten, werkschepen en overige GT: 30000-59999;Sleepboten, werkschepen en overige GT: 30000-59999
+SW60000;Sleepboten, werkschepen en overige GT: 60000-99999;Sleepboten, werkschepen en overige GT: 60000-99999
+SW100000;Sleepboten, werkschepen en overige GT: ≥100000;Sleepboten, werkschepen en overige GT: ≥100000
