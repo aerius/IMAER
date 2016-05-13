@@ -61,7 +61,6 @@ D3.2.15.2;D 3.2.15.2;"gedeeltelijk roostervloer; luchtwassystemen anders dan bio
 D3.2.15.3;D 3.2.15.3;"gedeeltelijk roostervloer; luchtwassystemen anders dan biologisch of chemisch; gecombineerd luchtwassysteem 85% emissiereductie met waterwasser, chemische wasser en biofilter "
 D3.2.15.4;D 3.2.15.4;"gedeeltelijk roostervloer; luchtwassystemen anders dan biologisch of chemisch; gecombineerd luchtwassysteem 85% emissiereductie met watergordijn en biologische wasser "
 D3.2.15.5;D 3.2.15.5;"gedeeltelijk roostervloer; luchtwassystemen anders dan biologisch of chemisch; gecombineerd luchtwassysteem 85% emissiereductie met waterwasser, biologische wasser en geurverwijderingssectie "
-G1.1;G 1.1;chemisch luchtwassysteem 90% emissiereductie 
 D3.2.15.6;D 3.2.15.6;"gedeeltelijk roostervloer; luchtwassystemen anders dan biologisch of chemisch; gecombineerd luchtwassysteem 90% emissiereductie met een biologische en een chemische wasser en een biofilter "
 D3.2.17;D 3.2.17;"gedeeltelijk roostervloer; biologisch luchtwassysteem 85% emissiereductie "
 D3.2.18;D 3.2.18;"gedeeltelijk roostervloer; chemisch luchtwassysteem 90% emissiereductie "
@@ -129,6 +128,7 @@ F6.3;F 6.3;"droogfilterwand; 40% emissiereductie fijn stof "
 F6.4;F 6.4;"ionisatiefilter; 57% emissiereductie fijn stof "
 F6.5;F 6.5;"warmtewisselaar; 31% emissiereductie fijn stof "
 F6.6;F 6.6;"warmtewisselaar; 13% emissiereductie fijn stof "
+G1.1;G 1.1;chemisch luchtwassysteem 90% emissiereductie 
 G1.2;G 1.2;biologisch luchtwassysteem 70% emissiereductie 
 G1.3;G 1.3;chemisch luchtwassysteem 70% emissiereductie 
 G1.4;G 1.4;biofilter 70% emissiereductie 
