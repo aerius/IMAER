@@ -1,0 +1,53 @@
+code;name;description
+BA-L-E3;Bestelauto LPG - Euro 3;Bestelauto LPG - Euro 3
+BA-L-E4;Bestelauto LPG - Euro 4;Bestelauto LPG - Euro 4
+BA-L-E5;Bestelauto LPG - Euro 5;Bestelauto LPG - Euro 5
+BA-L-E6;Bestelauto LPG - Euro 6;Bestelauto LPG - Euro 6
+BA-B-E3;Bestelauto benzine - Euro 3;Bestelauto benzine - Euro 3
+BA-B-E4;Bestelauto benzine - Euro 4;Bestelauto benzine - Euro 4
+BA-B-E5;Bestelauto benzine - Euro 5;Bestelauto benzine - Euro 5
+BA-B-E6;Bestelauto benzine - Euro 6;Bestelauto benzine - Euro 6
+BA-D-E3-ZW;Bestelauto diesel 2,0-3,5 ton GVW - Euro 3;Bestelauto diesel 2,0-3,5 ton GVW - Euro 3
+BA-D-E4-ZW;Bestelauto diesel 2,0-3,5 ton GVW - Euro 4;Bestelauto diesel 2,0-3,5 ton GVW - Euro 4
+BA-D-E5-ZW;Bestelauto diesel 2,0-3,5 ton GVW - Euro 5;Bestelauto diesel 2,0-3,5 ton GVW - Euro 5
+BA-D-E6-ZW;Bestelauto diesel 2,0-3,5 ton GVW - Euro 6;Bestelauto diesel 2,0-3,5 ton GVW - Euro 6
+BA-D-E3-LI;Bestelauto diesel < 2,0 ton GVW - Euro 3;Bestelauto diesel < 2,0 ton GVW - Euro 3
+BA-D-E4-LI;Bestelauto diesel < 2,0 ton GVW - Euro 4;Bestelauto diesel < 2,0 ton GVW - Euro 4
+BA-D-E5-LI;Bestelauto diesel < 2,0 ton GVW - Euro 5;Bestelauto diesel < 2,0 ton GVW - Euro 5
+BA-D-E6-LI;Bestelauto diesel < 2,0 ton GVW - Euro 6;Bestelauto diesel < 2,0 ton GVW - Euro 6
+BU-D-E3;Bus diesel - Euro 3;Bus diesel - Euro 3
+BU-D-E4;Bus diesel - Euro 4;Bus diesel - Euro 4
+BU-D-E5;Bus diesel - Euro 5;Bus diesel - Euro 5
+BU-D-E6;Bus diesel - Euro 6;Bus diesel - Euro 6
+PA-L-E3;Personenauto LPG - Euro 3;Personenauto LPG - Euro 3
+PA-L-E4;Personenauto LPG - Euro 4;Personenauto LPG - Euro 4
+PA-L-E5;Personenauto LPG - Euro 5;Personenauto LPG - Euro 5
+PA-L-E6;Personenauto LPG - Euro 6;Personenauto LPG - Euro 6
+PA-B-E3;Personenauto benzine - Euro 3;Personenauto benzine - Euro 3
+PA-B-E4;Personenauto benzine - Euro 4;Personenauto benzine - Euro 4
+PA-B-E5;Personenauto benzine - Euro 5;Personenauto benzine - Euro 5
+PA-B-E6;Personenauto benzine - Euro 6;Personenauto benzine - Euro 6
+PA-D-E3;Personenauto diesel - Euro 3;Personenauto diesel - Euro 3
+PA-D-E4;Personenauto diesel - Euro 4;Personenauto diesel - Euro 4
+PA-D-E5;Personenauto diesel - Euro 5;Personenauto diesel - Euro 5
+PA-D-E6;Personenauto diesel - Euro 6;Personenauto diesel - Euro 6
+TR-D-E3-LI;Trekker diesel licht (gemiddeld 19 ton GVW) - Euro 3;Trekker diesel licht (gemiddeld 19 ton GVW) - Euro 3
+TR-D-E4-LI;Trekker diesel licht (gemiddeld 19 ton GVW) - Euro 4;Trekker diesel licht (gemiddeld 19 ton GVW) - Euro 4
+TR-D-E5-LI;Trekker diesel licht (gemiddeld 19 ton GVW) - Euro 5;Trekker diesel licht (gemiddeld 19 ton GVW) - Euro 5
+TR-D-E6-LI;Trekker diesel licht (gemiddeld 19 ton GVW) - Euro 6;Trekker diesel licht (gemiddeld 19 ton GVW) - Euro 6
+TR-D-E3-ZW;Trekker diesel zwaar (gemiddeld 43 ton GVW) - Euro 3;Trekker diesel zwaar (gemiddeld 43 ton GVW) - Euro 3
+TR-D-E4-ZW;Trekker diesel zwaar (gemiddeld 43 ton GVW) - Euro 4;Trekker diesel zwaar (gemiddeld 43 ton GVW) - Euro 4
+TR-D-E5-ZW;Trekker diesel zwaar (gemiddeld 43 ton GVW) - Euro 5;Trekker diesel zwaar (gemiddeld 43 ton GVW) - Euro 5
+TR-D-E6-ZW;Trekker diesel zwaar (gemiddeld 43 ton GVW) - Euro 6;Trekker diesel zwaar (gemiddeld 43 ton GVW) - Euro 6
+VA-D-E3-MI;Vrachtauto diesel 10-20 ton GVW - Euro 3;Vrachtauto diesel 10-20 ton GVW - Euro 3
+VA-D-E4-MI;Vrachtauto diesel 10-20 ton GVW - Euro 4;Vrachtauto diesel 10-20 ton GVW - Euro 4
+VA-D-E5-MI;Vrachtauto diesel 10-20 ton GVW - Euro 5;Vrachtauto diesel 10-20 ton GVW - Euro 5
+VA-D-E6-MI;Vrachtauto diesel 10-20 ton GVW - Euro 6;Vrachtauto diesel 10-20 ton GVW - Euro 6
+VA-D-E3-LI;Vrachtauto diesel 3,5-10 ton GVW - Euro 3;Vrachtauto diesel 3,5-10 ton GVW - Euro 3
+VA-D-E4-LI;Vrachtauto diesel 3,5-10 ton GVW - Euro 4;Vrachtauto diesel 3,5-10 ton GVW - Euro 4
+VA-D-E5-LI;Vrachtauto diesel 3,5-10 ton GVW - Euro 5;Vrachtauto diesel 3,5-10 ton GVW - Euro 5
+VA-D-E6-LI;Vrachtauto diesel 3,5-10 ton GVW - Euro 6;Vrachtauto diesel 3,5-10 ton GVW - Euro 6
+VA-D-E3-ZW;Vrachtauto diesel > 20 ton GVW - Euro 3;Vrachtauto diesel > 20 ton GVW - Euro 3
+VA-D-E4-ZW;Vrachtauto diesel > 20 ton GVW - Euro 4;Vrachtauto diesel > 20 ton GVW - Euro 4
+VA-D-E5-ZW;Vrachtauto diesel > 20 ton GVW - Euro 5;Vrachtauto diesel > 20 ton GVW - Euro 5
+VA-D-E6-ZW;Vrachtauto diesel > 20 ton GVW - Euro 6;Vrachtauto diesel > 20 ton GVW - Euro 6
