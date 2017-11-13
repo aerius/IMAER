@@ -1,11 +1,38 @@
-<?xml version="1.0" encoding="UTF-8"?><schema xmlns="http://www.w3.org/2001/XMLSchema" xmlns:IMAER="http://imaer.aerius.nl/2.0" xmlns:gml="http://www.opengis.net/gml/3.2" elementFormDefault="qualified" targetNamespace="http://imaer.aerius.nl/2.0" version="2.0.0">
+<?xml version="1.0" encoding="UTF-8"?><schema xmlns="http://www.w3.org/2001/XMLSchema" xmlns:IMAER="http://imaer.aerius.nl/2.0" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:gmlsf="http://www.opengis.net/gmlsf/2.0" elementFormDefault="qualified" targetNamespace="http://imaer.aerius.nl/2.0" version="2.0.0">
   <annotation>
     <documentation>Dit model beschrijft het InformatieModel AERius (IMAER). IMAER is het standaard gegevens uitwisselingsformaat van AERIUS en wordt gebruikt voor het importeren, exporteren en uitwisselen van gegevens met en tussen de verschillende AERIUS producten (o.a. Calculator, Monitor en Register).  
 
 In IMAER zijn de objecten opgenomen die nodig zijn voor het berekenen van emissie en depositie van verschillende stoffen. In het model zijn de beschrijvingen van de objecten, de relaties tussen de objecten en de attributen opgenomen.</documentation>
   </annotation>
   <import namespace="http://www.opengis.net/gml/3.2" schemaLocation="http://schemas.opengis.net/gml/3.2.1/gml.xsd"/>
+  <import namespace="http://www.opengis.net/gmlsf/2.0" schemaLocation="http://schemas.opengis.net/gmlsfProfile/2.0/gmlsfLevels.xsd"/>
   <!--XML Schema document created by ShapeChange - http://shapechange.net/-->
+  <annotation>
+    <appinfo source="http://schemas.opengis.net/gmlsfProfile/2.0/gmlsfLevels.xsd">
+      <gmlsf:ComplianceLevel>2</gmlsf:ComplianceLevel>
+    </appinfo>
+  </annotation>
+  <element name="FeatureCollectionCalculator" type="IMAER:FeatureCollectionCalculatorType" substitutionGroup="gml:AbstractFeature"/>
+  <complexType name="FeatureCollectionCalculatorType">
+    <complexContent>
+      <extension base="gml:AbstractFeatureType">
+        <sequence minOccurs="0" maxOccurs="unbounded">
+          <element name="metadata" type="IMAER:AeriusCalculatorMetadataPropertyType" minOccurs="0"/>
+          <element name="featureMember" minOccurs="0" maxOccurs="unbounded">
+            <complexType>
+              <complexContent>
+                <extension base="gml:AbstractFeatureMemberType">
+                  <sequence>
+                    <element ref="IMAER:GeoObject"/>
+                  </sequence>
+                </extension>
+              </complexContent>
+            </complexType>
+          </element>
+        </sequence>
+      </extension>
+    </complexContent>
+  </complexType>
   <element name="AdditionalLodgingSystem" substitutionGroup="IMAER:LodgingSystem" type="IMAER:AdditionalLodgingSystemType">
     <annotation>
       <documentation>Extra staltechniek beschrijving.
@@ -1754,12 +1781,12 @@ NOTE Deze klasse kan gebruikt worden om voor een gedeelte van de weg een of meer
     <sequence>
       <element name="fromPosition" type="double">
         <annotation>
-          <documentation>Positie op het lijnstuk (decimale fractie 0-1) tot aan waar de waarde(s) gaan gelden.</documentation>
+          <documentation>Positie op het lijnstuk (decimale fractie 0-1) vanaf waar de waardes gaan gelden.</documentation>
         </annotation>
       </element>
       <element name="toPosition" type="double">
         <annotation>
-          <documentation>Positie op het lijnstuk (decimale fractie 0-1) tot aan waar de waarde(s) gaan gelden.</documentation>
+          <documentation>Positie op het lijnstuk (decimale fractie 0-1) tot aan waar de waardes gelden.</documentation>
         </annotation>
       </element>
     </sequence>
