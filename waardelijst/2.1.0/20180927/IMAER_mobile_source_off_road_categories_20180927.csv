@@ -1,0 +1,21 @@
+code;name;description
+P1980;Pre-STAGE <= 1980, 130 - 560 kW;Pre-STAGE <= 1980, 130 - 560 kW
+P1990;Pre-STAGE 1981 - 1990, 130 - 560 kW;Pre-STAGE 1981 - 1990, 130 - 560 kW
+P1991;Pre-STAGE 1991 - STAGE I, 130 - 560 kW;Pre-STAGE 1991 - STAGE I, 130 - 560 kW
+S1A;STAGE I, 130 – 560 kW, bouwjaar 1999/01, Cat. A;STAGE I, 130 – 560 kW, bouwjaar 1999/01, Cat. A
+S1B;STAGE I, 75 – 130 kW,  bouwjaar 1999/01, Cat. B;STAGE I, 75 – 130 kW,  bouwjaar 1999/01, Cat. B
+S1C;STAGE I, 37 – 75 kW,  bouwjaar 1999/04, Cat. C;STAGE I, 37 – 75 kW,  bouwjaar 1999/04, Cat. C
+S2D;STAGE II, 18 – 37 kW, bouwjaar 2001/01, Cat. D;STAGE II, 18 – 37 kW, bouwjaar 2001/01, Cat. D
+S2E;STAGE II, 130 – 560 kW, bouwjaar 2002/01, Cat. E;STAGE II, 130 – 560 kW, bouwjaar 2002/01, Cat. E
+S2F;STAGE II, 75 – 130 kW, bouwjaar 2003/01, Cat. F;STAGE II, 75 – 130 kW, bouwjaar 2003/01, Cat. F
+S2G;STAGE II, 37 – 75 kW, bouwjaar 2004/01, Cat. G;STAGE II, 37 – 75 kW, bouwjaar 2004/01, Cat. G
+S3AH;STAGE III A, 130 – 560 kW, bouwjaar 2006/01, Cat. H;STAGE III A, 130 – 560 kW, bouwjaar 2006/01, Cat. H
+S3AI;STAGE III A, 75 – 130 kW, bouwjaar 2007/01, Cat. I;STAGE III A, 75 – 130 kW, bouwjaar 2007/01, Cat. I
+S3AJ;STAGE III A, 37 – 75 kW, bouwjaar 2008/01, Cat. J;STAGE III A, 37 – 75 kW, bouwjaar 2008/01, Cat. J
+S3AK;STAGE III A, 19 – 37 kW, bouwjaar 2007/01, Cat. K;STAGE III A, 19 – 37 kW, bouwjaar 2007/01, Cat. K
+S3BL;STAGE III B, 130 – 560 kW, bouwjaar 2011/01, Cat. L;STAGE III B, 130 – 560 kW, bouwjaar 2011/01, Cat. L
+S3BM;STAGE III B, 75 – 130 kW, bouwjaar 2012/01, Cat. M;STAGE III B, 75 – 130 kW, bouwjaar 2012/01, Cat. M
+S3BN;STAGE III B, 56 – 75 kW, bouwjaar 2012/01, Cat. N;STAGE III B, 56 – 75 kW, bouwjaar 2012/01, Cat. N
+S4Q;STAGE IV, 130 – 560 kW, bouwjaar 2014/01, Cat. Q;STAGE IV, 130 – 560 kW, bouwjaar 2014/01, Cat. Q
+S4R1;STAGE IV, 75 – 130 kW, bouwjaar 2014/01, Cat. R;STAGE IV, 75 – 130 kW, bouwjaar 2014/01, Cat. R
+S4R2;STAGE IV, 56 – 75 kW, bouwjaar 2014/01, Cat. R;STAGE IV, 56 – 75 kW, bouwjaar 2014/01, Cat. R
