@@ -1,0 +1,11 @@
+code;name;description
+ANIMAL_HOUSING;Dierverblijven;Bijzondere waarde voor de verdamping emissies van NH3 en NOx uit dierverblijven
+BUSES;Bussen;Volgens de (gemiddelde) verkeersintensiteit van (openbaar vervoer) bussen
+CONTINUOUS;Continue emissie;Continue emissie in de tijd
+FERTILISER;Meststoffen;Bijzondere waarde voor de verdamping emissies van NH3 en NOx uit de toepassing van dierlijke mest en kunstmest
+HEAVY_DUTY_VEHICLES;Zwaar verkeer;Volgens de (gemiddelde) verkeersintensiteit van zware voertuigen
+INDUSTRIAL_ACTIVITY;Standaard profiel industrie;Volgens de (gemiddelde) industriële activiteit gedurende een werkdag
+LIGHT_DUTY_VEHICLES;Licht verkeer;Volgens de (gemiddelde) verkeersintensiteit van lichte voertuigen
+SPACE_HEATING;Verwarming van ruimten;Volgens de (gemiddelde) verwarmen activiteit ruimteverwarming
+SPACE_HEATING_WITHOUT_SEASONAL_CORRECTION;Verwarming van ruimten (zonder seizoenscorrectie);Volgens de (gemiddelde) verwarmen activiteit ruimteverwarming (zonder seizoenscorrectie)
+TRAFFIC;Transport;Volgens de (gemiddelde) verkeersdichtheid
