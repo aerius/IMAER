@@ -1,0 +1,32 @@
+code	name	description
+B2T	alle werktuigen op benzine, 2takt	alle werktuigen op benzine, 2takt
+B4T	alle werktuigen op benzine, 4takt	alle werktuigen op benzine, 4takt
+LPG	alle werktuigen op LPG	alle werktuigen op LPG
+MUT	Middelzware utiliteitsvoertuigen (tot 6L cilinderinhoud) op diesel	Middelzware utiliteitsvoertuigen (tot 6L cilinderinhoud) op diesel
+SI560DSN	Stage-I, <= 2001, >= 560  kW, diesel, SCR: nee	Stage-I, <= 2001, >= 560  kW, diesel, SCR: nee
+SI5675DSN	Stage-I, <= 2001, 56-75 kW, diesel, SCR: nee	Stage-I, <= 2001, 56-75 kW, diesel, SCR: nee
+SI56DSN	Stage-I, <= 2001, <= 56 kW, diesel, SCR: nee	Stage-I, <= 2001, <= 56 kW, diesel, SCR: nee
+SI75560DSN	Stage-I, <= 2001, 75-560 kW, diesel, SCR: nee	Stage-I, <= 2001, 75-560 kW, diesel, SCR: nee
+SII560DSN	Stage-II, 2002-2005, >= 560  kW, diesel, SCR: nee	Stage-II, 2002-2005, >= 560  kW, diesel, SCR: nee
+SII5675DSN	Stage-II, 2002-2005, 56-75 kW, diesel, SCR: nee	Stage-II, 2002-2005, 56-75 kW, diesel, SCR: nee
+SII56DSN	Stage-II, 2002-2005, <= 56 kW, diesel, SCR: nee	Stage-II, 2002-2005, <= 56 kW, diesel, SCR: nee
+SII75560DSN	Stage-II, 2002-2005, 75-560 kW, diesel, SCR: nee	Stage-II, 2002-2005, 75-560 kW, diesel, SCR: nee
+SIIIA560DSN	Stage-IIIA, 2006-2010, >= 560  kW, diesel, SCR: nee	Stage-IIIA, 2006-2010, >= 560  kW, diesel, SCR: nee
+SIIIA5675DSN	Stage-IIIA, 2006-2010, 56-75 kW, diesel, SCR: nee	Stage-IIIA, 2006-2010, 56-75 kW, diesel, SCR: nee
+SIIIA56DSN	Stage-IIIA, 2006-2010, <= 56 kW, diesel, SCR: nee	Stage-IIIA, 2006-2010, <= 56 kW, diesel, SCR: nee
+SIIIA75560DSN	Stage-IIIA, 2006-2010, 75-560 kW, diesel, SCR: nee	Stage-IIIA, 2006-2010, 75-560 kW, diesel, SCR: nee
+SIIIB560DSN	Stage-IIIB, 2011-2013, >= 560  kW, diesel, SCR: nee	Stage-IIIB, 2011-2013, >= 560  kW, diesel, SCR: nee
+SIIIB5675DSN	Stage-IIIB, 2011-2013, 56-75 kW, diesel, SCR: nee	Stage-IIIB, 2011-2013, 56-75 kW, diesel, SCR: nee
+SIIIB56DSN	Stage-IIIB, 2011-2013, <= 56 kW, diesel, SCR: nee	Stage-IIIB, 2011-2013, <= 56 kW, diesel, SCR: nee
+SIIIB75560DSJ	Stage-IIIB, 2011-2013, 75-560 kW, diesel, SCR: ja	Stage-IIIB, 2011-2013, 75-560 kW, diesel, SCR: ja
+SIIIB75560DSN	Stage-IIIB, 2011-2013, 75-560 kW, diesel, SCR: nee	Stage-IIIB, 2011-2013, 75-560 kW, diesel, SCR: nee
+SIV560DSN	Stage-IV, 2014-2018, >= 560  kW, diesel, SCR: nee	Stage-IV, 2014-2018, >= 560  kW, diesel, SCR: nee
+SIV5675DSJ	Stage-IV, 2014-2018, 56-75 kW, diesel, SCR: ja	Stage-IV, 2014-2018, 56-75 kW, diesel, SCR: ja
+SIV56DSN	Stage-IV, 2014-2018, <= 56 kW, diesel, SCR: nee	Stage-IV, 2014-2018, <= 56 kW, diesel, SCR: nee
+SIV75560DSJ	Stage-IV, 2014-2018, 75-560 kW, diesel, SCR: ja	Stage-IV, 2014-2018, 75-560 kW, diesel, SCR: ja
+SV560DSJ	Stage-V, >= 2019 , >= 560  kW, diesel, SCR: ja	Stage-V, >= 2019 , >= 560  kW, diesel, SCR: ja
+SV560DSN	Stage-V, >= 2019 , >= 560  kW, diesel, SCR: nee	Stage-V, >= 2019 , >= 560  kW, diesel, SCR: nee
+SV5675DSJ	Stage-V, >= 2019 , 56-75 kW, diesel, SCR: ja	Stage-V, >= 2019 , 56-75 kW, diesel, SCR: ja
+SV56DSN	Stage-V, >= 2019 , <= 56 kW, diesel, SCR: nee	Stage-V, >= 2019 , <= 56 kW, diesel, SCR: nee
+SV75560DSJ	Stage-V, >= 2019 , 75-560 kW, diesel, SCR: ja	Stage-V, >= 2019 , 75-560 kW, diesel, SCR: ja
+ZUT	Zware utiliteitsvoertuigen (meer dan 6L cilinderinhoud) op diesel	Zware utiliteitsvoertuigen (meer dan 6L cilinderinhoud) op diesel
