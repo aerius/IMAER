@@ -1,0 +1,380 @@
+code	name	description
+BABBEUR0	Autobus - benzine - pre Euro wetgeving (< 1992)	Autobus - benzine - pre Euro wetgeving (< 1992)
+BABCEEV5	Autobus - CNG - Euro-5 EEV (fijnstof eis)	Autobus - CNG - Euro-5 EEV (fijnstof eis)
+BABCEUR4	Autobus - CNG - Euro-4	Autobus - CNG - Euro-4
+BABCEUR5	Autobus - CNG - Euro-5	Autobus - CNG - Euro-5
+BABCEUR6	Autobus - CNG - Euro-6	Autobus - CNG - Euro-6
+BABDEEV5SCR	Autobus - diesel - Euro-5 EEV (fijnstof eis) - SCR	Autobus - diesel - Euro-5 EEV (fijnstof eis) - SCR
+BABDEUR0	Autobus - diesel - pre Euro wetgeving (< 1992)	Autobus - diesel - pre Euro wetgeving (< 1992)
+BABDEUR1	Autobus - diesel - Euro-1	Autobus - diesel - Euro-1
+BABDEUR2	Autobus - diesel - Euro-2	Autobus - diesel - Euro-2
+BABDEUR2DPF	Autobus - diesel - Euro-2 - DPF	Autobus - diesel - Euro-2 - DPF
+BABDEUR2HOF	Autobus - diesel - Euro-2 - halfopen filter	Autobus - diesel - Euro-2 - halfopen filter
+BABDEUR3	Autobus - diesel - Euro-3	Autobus - diesel - Euro-3
+BABDEUR3DPF	Autobus - diesel - Euro-3 - DPF	Autobus - diesel - Euro-3 - DPF
+BABDEUR3DPFSCR	Autobus - diesel - Euro-3 - DPF - SCR	Autobus - diesel - Euro-3 - DPF - SCR
+BABDEUR3HOF	Autobus - diesel - Euro-3 - halfopen filter	Autobus - diesel - Euro-3 - halfopen filter
+BABDEUR4	Autobus - diesel - Euro-4	Autobus - diesel - Euro-4
+BABDEUR4EGR	Autobus - diesel - Euro-4 - EGR	Autobus - diesel - Euro-4 - EGR
+BABDEUR4SCR	Autobus - diesel - Euro-4 - SCR	Autobus - diesel - Euro-4 - SCR
+BABDEUR5EGR	Autobus - diesel - Euro-5 - EGR	Autobus - diesel - Euro-5 - EGR
+BABDEUR5SCR	Autobus - diesel - Euro-5 - SCR	Autobus - diesel - Euro-5 - SCR
+BABDEUR6	Autobus - diesel - Euro-6	Autobus - diesel - Euro-6
+BABDPR82	Autobus - diesel - pre Euro wetgeving (< 1982)	Autobus - diesel - pre Euro wetgeving (< 1982)
+BABEZEEV	Autobus - elektrisch	Autobus - elektrisch
+BABHZEEV	Autobus - waterstof	Autobus - waterstof
+BABLEUR0	Autobus - LPG - pre Euro wetgeving (< 1992)	Autobus - LPG - pre Euro wetgeving (< 1992)
+LBAB1982	Bestelauto - benzine - pre Euro wetgeving (1982)	Bestelauto - benzine - pre Euro wetgeving (1982)
+LBAB1983	Bestelauto - benzine - pre Euro wetgeving (1983)	Bestelauto - benzine - pre Euro wetgeving (1983)
+LBAB1984	Bestelauto - benzine - pre Euro wetgeving (1984)	Bestelauto - benzine - pre Euro wetgeving (1984)
+LBAB1985	Bestelauto - benzine - pre Euro wetgeving (1985)	Bestelauto - benzine - pre Euro wetgeving (1985)
+LBAB1986	Bestelauto - benzine - pre Euro wetgeving (1986)	Bestelauto - benzine - pre Euro wetgeving (1986)
+LBAB1987	Bestelauto - benzine - pre Euro wetgeving (1987)	Bestelauto - benzine - pre Euro wetgeving (1987)
+LBAB1988	Bestelauto - benzine - pre Euro wetgeving (1988)	Bestelauto - benzine - pre Euro wetgeving (1988)
+LBAB1989	Bestelauto - benzine - pre Euro wetgeving (1989)	Bestelauto - benzine - pre Euro wetgeving (1989)
+LBAB1990	Bestelauto - benzine - pre Euro wetgeving (1990)	Bestelauto - benzine - pre Euro wetgeving (1990)
+LBAB1991	Bestelauto - benzine - pre Euro wetgeving (1991)	Bestelauto - benzine - pre Euro wetgeving (1991)
+LBAB1992	Bestelauto - benzine - pre Euro wetgeving (1992)	Bestelauto - benzine - pre Euro wetgeving (1992)
+LBAB1993	Bestelauto - benzine - pre Euro wetgeving (1993)	Bestelauto - benzine - pre Euro wetgeving (1993)
+LBAB1994	Bestelauto - benzine - pre Euro wetgeving (1994)	Bestelauto - benzine - pre Euro wetgeving (1994)
+LBABEUR1	Bestelauto - benzine - Euro-1	Bestelauto - benzine - Euro-1
+LBABEUR2	Bestelauto - benzine - Euro-2	Bestelauto - benzine - Euro-2
+LBABEUR3	Bestelauto - benzine - Euro-3	Bestelauto - benzine - Euro-3
+LBABEUR4	Bestelauto - benzine - Euro-4	Bestelauto - benzine - Euro-4
+LBABEUR5	Bestelauto - benzine - Euro-5	Bestelauto - benzine - Euro-5
+LBABEUR6	Bestelauto - benzine - Euro-6	Bestelauto - benzine - Euro-6
+LBABPR82	Bestelauto - benzine - pre Euro wetgeving (< 1982)	Bestelauto - benzine - pre Euro wetgeving (< 1982)
+LBABR3WC	Bestelauto - benzine - pre Euro wetgeving (< 1992)	Bestelauto - benzine - pre Euro wetgeving (< 1992)
+LBACEUR5	Bestelauto - CNG - Euro-5	Bestelauto - CNG - Euro-5
+LBACEUR6	Bestelauto - CNG - Euro-6	Bestelauto - CNG - Euro-6
+LBAD1982LCH	Bestelauto - diesel - licht - pre Euro wetgeving (1982)	Bestelauto - diesel - licht - pre Euro wetgeving (1982)
+LBAD1982ZWA	Bestelauto - diesel - zwaar - pre Euro wetgeving (1982)	Bestelauto - diesel - zwaar - pre Euro wetgeving (1982)
+LBAD1983LCH	Bestelauto - diesel - licht - pre Euro wetgeving (1983)	Bestelauto - diesel - licht - pre Euro wetgeving (1983)
+LBAD1983ZWA	Bestelauto - diesel - zwaar - pre Euro wetgeving (1983)	Bestelauto - diesel - zwaar - pre Euro wetgeving (1983)
+LBAD1984LCH	Bestelauto - diesel - licht - pre Euro wetgeving (1984)	Bestelauto - diesel - licht - pre Euro wetgeving (1984)
+LBAD1984ZWA	Bestelauto - diesel - zwaar - pre Euro wetgeving (1984)	Bestelauto - diesel - zwaar - pre Euro wetgeving (1984)
+LBAD1985LCH	Bestelauto - diesel - licht - pre Euro wetgeving (1985)	Bestelauto - diesel - licht - pre Euro wetgeving (1985)
+LBAD1985ZWA	Bestelauto - diesel - zwaar - pre Euro wetgeving (1985)	Bestelauto - diesel - zwaar - pre Euro wetgeving (1985)
+LBAD1986LCH	Bestelauto - diesel - licht - pre Euro wetgeving (1986)	Bestelauto - diesel - licht - pre Euro wetgeving (1986)
+LBAD1986ZWA	Bestelauto - diesel - zwaar - pre Euro wetgeving (1986)	Bestelauto - diesel - zwaar - pre Euro wetgeving (1986)
+LBAD1987LCH	Bestelauto - diesel - licht - pre Euro wetgeving (1987)	Bestelauto - diesel - licht - pre Euro wetgeving (1987)
+LBAD1987ZWA	Bestelauto - diesel - zwaar - pre Euro wetgeving (1987)	Bestelauto - diesel - zwaar - pre Euro wetgeving (1987)
+LBAD1988LCH	Bestelauto - diesel - licht - pre Euro wetgeving (1988)	Bestelauto - diesel - licht - pre Euro wetgeving (1988)
+LBAD1988ZWA	Bestelauto - diesel - zwaar - pre Euro wetgeving (1988)	Bestelauto - diesel - zwaar - pre Euro wetgeving (1988)
+LBAD1989LCH	Bestelauto - diesel - licht - pre Euro wetgeving (1989)	Bestelauto - diesel - licht - pre Euro wetgeving (1989)
+LBAD1989ZWA	Bestelauto - diesel - zwaar - pre Euro wetgeving (1989)	Bestelauto - diesel - zwaar - pre Euro wetgeving (1989)
+LBAD1990LCH	Bestelauto - diesel - licht - pre Euro wetgeving (1990)	Bestelauto - diesel - licht - pre Euro wetgeving (1990)
+LBAD1990ZWA	Bestelauto - diesel - zwaar - pre Euro wetgeving (1990)	Bestelauto - diesel - zwaar - pre Euro wetgeving (1990)
+LBAD1991LCH	Bestelauto - diesel - licht - pre Euro wetgeving (1991)	Bestelauto - diesel - licht - pre Euro wetgeving (1991)
+LBAD1991ZWA	Bestelauto - diesel - zwaar - pre Euro wetgeving (1991)	Bestelauto - diesel - zwaar - pre Euro wetgeving (1991)
+LBAD1992LCH	Bestelauto - diesel - licht - pre Euro wetgeving (1992)	Bestelauto - diesel - licht - pre Euro wetgeving (1992)
+LBAD1992ZWA	Bestelauto - diesel - zwaar - pre Euro wetgeving (1992)	Bestelauto - diesel - zwaar - pre Euro wetgeving (1992)
+LBADEUA6CL1	Bestelauto - diesel - Euro-6 pre-RDE - N1 klasse 1	Bestelauto - diesel - Euro-6 pre-RDE - N1 klasse 1
+LBADEUA6CL2	Bestelauto - diesel - Euro-6 pre-RDE - N1 klasse 2	Bestelauto - diesel - Euro-6 pre-RDE - N1 klasse 2
+LBADEUA6CL3	Bestelauto - diesel - Euro-6 pre-RDE - N1 klasse 3	Bestelauto - diesel - Euro-6 pre-RDE - N1 klasse 3
+LBADEUD6CL1	Bestelauto - diesel - Euro-6 RDE - N1 klasse 1	Bestelauto - diesel - Euro-6 RDE - N1 klasse 1
+LBADEUD6CL2	Bestelauto - diesel - Euro-6 RDE - N1 klasse 2	Bestelauto - diesel - Euro-6 RDE - N1 klasse 2
+LBADEUD6CL3	Bestelauto - diesel - Euro-6 RDE - N1 klasse 3	Bestelauto - diesel - Euro-6 RDE - N1 klasse 3
+LBADEUR1CL1	Bestelauto - diesel - Euro-1 - N1 klasse 1	Bestelauto - diesel - Euro-1 - N1 klasse 1
+LBADEUR1CL2	Bestelauto - diesel - Euro-1 - N1 klasse 2	Bestelauto - diesel - Euro-1 - N1 klasse 2
+LBADEUR1CL3	Bestelauto - diesel - Euro-1 - N1 klasse 3	Bestelauto - diesel - Euro-1 - N1 klasse 3
+LBADEUR2CL1	Bestelauto - diesel - Euro-2 - N1 klasse 1	Bestelauto - diesel - Euro-2 - N1 klasse 1
+LBADEUR2CL2	Bestelauto - diesel - Euro-2 - N1 klasse 2	Bestelauto - diesel - Euro-2 - N1 klasse 2
+LBADEUR2CL3	Bestelauto - diesel - Euro-2 - N1 klasse 3	Bestelauto - diesel - Euro-2 - N1 klasse 3
+LBADEUR3CL1	Bestelauto - diesel - Euro-3 - N1 klasse 1	Bestelauto - diesel - Euro-3 - N1 klasse 1
+LBADEUR3CL1HOF	Bestelauto - diesel - Euro-3 - halfopen filter - N1 klasse 1	Bestelauto - diesel - Euro-3 - halfopen filter - N1 klasse 1
+LBADEUR3CL2	Bestelauto - diesel - Euro-3 - N1 klasse 2	Bestelauto - diesel - Euro-3 - N1 klasse 2
+LBADEUR3CL2HOF	Bestelauto - diesel - Euro-3 - halfopen filter - N1 klasse 2	Bestelauto - diesel - Euro-3 - halfopen filter - N1 klasse 2
+LBADEUR3CL3	Bestelauto - diesel - Euro-3 - N1 klasse 3	Bestelauto - diesel - Euro-3 - N1 klasse 3
+LBADEUR3CL3HOF	Bestelauto - diesel - Euro-3 - halfopen filter - N1 klasse 3	Bestelauto - diesel - Euro-3 - halfopen filter - N1 klasse 3
+LBADEUR4CL1	Bestelauto - diesel - Euro-4 - N1 klasse 1	Bestelauto - diesel - Euro-4 - N1 klasse 1
+LBADEUR4CL1DPF	Bestelauto - diesel - Euro-4 - DPF - N1 klasse 1	Bestelauto - diesel - Euro-4 - DPF - N1 klasse 1
+LBADEUR4CL1HOF	Bestelauto - diesel - Euro-4 - halfopen filter - N1 klasse 1	Bestelauto - diesel - Euro-4 - halfopen filter - N1 klasse 1
+LBADEUR4CL2	Bestelauto - diesel - Euro-4 - N1 klasse 2	Bestelauto - diesel - Euro-4 - N1 klasse 2
+LBADEUR4CL2DPF	Bestelauto - diesel - Euro-4 - DPF - N1 klasse 2	Bestelauto - diesel - Euro-4 - DPF - N1 klasse 2
+LBADEUR4CL2HOF	Bestelauto - diesel - Euro-4 - halfopen filter - N1 klasse 2	Bestelauto - diesel - Euro-4 - halfopen filter - N1 klasse 2
+LBADEUR4CL3	Bestelauto - diesel - Euro-4 - N1 klasse 3	Bestelauto - diesel - Euro-4 - N1 klasse 3
+LBADEUR4CL3DPF	Bestelauto - diesel - Euro-4 - DPF - N1 klasse 3	Bestelauto - diesel - Euro-4 - DPF - N1 klasse 3
+LBADEUR4CL3HOF	Bestelauto - diesel - Euro-4 - halfopen filter - N1 klasse 3	Bestelauto - diesel - Euro-4 - halfopen filter - N1 klasse 3
+LBADEUR5CL1	Bestelauto - diesel - Euro-5 - N1 klasse 1	Bestelauto - diesel - Euro-5 - N1 klasse 1
+LBADEUR5CL2	Bestelauto - diesel - Euro-5 - N1 klasse 2	Bestelauto - diesel - Euro-5 - N1 klasse 2
+LBADEUR5CL3	Bestelauto - diesel - Euro-5 - N1 klasse 3	Bestelauto - diesel - Euro-5 - N1 klasse 3
+LBADPR82LCH	Bestelauto - diesel - licht - pre Euro wetgeving (< 1982)	Bestelauto - diesel - licht - pre Euro wetgeving (< 1982)
+LBADPR82ZWA	Bestelauto - diesel - zwaar - pre Euro wetgeving (< 1982)	Bestelauto - diesel - zwaar - pre Euro wetgeving (< 1982)
+LBAEZEEV	Bestelauto - elektrisch	Bestelauto - elektrisch
+LBAL1982	Bestelauto - LPG - pre Euro wetgeving (1982)	Bestelauto - LPG - pre Euro wetgeving (1982)
+LBAL1983	Bestelauto - LPG - pre Euro wetgeving (1983)	Bestelauto - LPG - pre Euro wetgeving (1983)
+LBAL1984	Bestelauto - LPG - pre Euro wetgeving (1984)	Bestelauto - LPG - pre Euro wetgeving (1984)
+LBAL1985	Bestelauto - LPG - pre Euro wetgeving (1985)	Bestelauto - LPG - pre Euro wetgeving (1985)
+LBAL1986	Bestelauto - LPG - pre Euro wetgeving (1986)	Bestelauto - LPG - pre Euro wetgeving (1986)
+LBAL1987	Bestelauto - LPG - pre Euro wetgeving (1987)	Bestelauto - LPG - pre Euro wetgeving (1987)
+LBAL1988	Bestelauto - LPG - pre Euro wetgeving (1988)	Bestelauto - LPG - pre Euro wetgeving (1988)
+LBAL1989	Bestelauto - LPG - pre Euro wetgeving (1989)	Bestelauto - LPG - pre Euro wetgeving (1989)
+LBAL1990	Bestelauto - LPG - pre Euro wetgeving (1990)	Bestelauto - LPG - pre Euro wetgeving (1990)
+LBAL1991	Bestelauto - LPG - pre Euro wetgeving (1991)	Bestelauto - LPG - pre Euro wetgeving (1991)
+LBAL1992	Bestelauto - LPG - pre Euro wetgeving (1992)	Bestelauto - LPG - pre Euro wetgeving (1992)
+LBALEUR1	Bestelauto - LPG - Euro-1	Bestelauto - LPG - Euro-1
+LBALEUR2	Bestelauto - LPG - Euro-2	Bestelauto - LPG - Euro-2
+LBALEUR3	Bestelauto - LPG - Euro-3	Bestelauto - LPG - Euro-3
+LBALEUR4	Bestelauto - LPG - Euro-4	Bestelauto - LPG - Euro-4
+LBALEUR5	Bestelauto - LPG - Euro-5	Bestelauto - LPG - Euro-5
+LBALEUR6	Bestelauto - LPG - Euro-6	Bestelauto - LPG - Euro-6
+LBALPR82	Bestelauto - LPG - pre Euro wetgeving (< 1982)	Bestelauto - LPG - pre Euro wetgeving (< 1982)
+LBALR3WC	Bestelauto - LPG - pre Euro wetgeving (< 1992)	Bestelauto - LPG - pre Euro wetgeving (< 1992)
+LBEDEUR5	Bestelauto plug-in hybride - diesel - Euro-5	Bestelauto plug-in hybride - diesel - Euro-5
+LBEDEUR6	Bestelauto plug-in hybride - diesel - Euro-6	Bestelauto plug-in hybride - diesel - Euro-6
+LBFBEUR0	Bromfiets - benzine - pre Euro wetgeving (< 1999)	Bromfiets - benzine - pre Euro wetgeving (< 1999)
+LBFEZEEV	Bromfiets - elektrisch	Bromfiets - elektrisch
+LMFBEUR0	Motorfiets - benzine - pre Euro wetgeving (< 1999)	Motorfiets - benzine - pre Euro wetgeving (< 1999)
+LMFBEUR1	Motorfiets - benzine - Euro-1	Motorfiets - benzine - Euro-1
+LMFEZEEV	Motorfiets - elektrisch	Motorfiets - elektrisch
+LPAB1982LCH	Personenauto - benzine - licht - pre Euro wetgeving (1982)	Personenauto - benzine - licht - pre Euro wetgeving (1982)
+LPAB1982MED	Personenauto - benzine - middelzwaar - pre Euro wetgeving (1982)	Personenauto - benzine - middelzwaar - pre Euro wetgeving (1982)
+LPAB1982ZWA	Personenauto - benzine - zwaar - pre Euro wetgeving (1982)	Personenauto - benzine - zwaar - pre Euro wetgeving (1982)
+LPAB1983LCH	Personenauto - benzine - licht - pre Euro wetgeving (1983)	Personenauto - benzine - licht - pre Euro wetgeving (1983)
+LPAB1983MED	Personenauto - benzine - middelzwaar - pre Euro wetgeving (1983)	Personenauto - benzine - middelzwaar - pre Euro wetgeving (1983)
+LPAB1983ZWA	Personenauto - benzine - zwaar - pre Euro wetgeving (1983)	Personenauto - benzine - zwaar - pre Euro wetgeving (1983)
+LPAB1984LCH	Personenauto - benzine - licht - pre Euro wetgeving (1984)	Personenauto - benzine - licht - pre Euro wetgeving (1984)
+LPAB1984MED	Personenauto - benzine - middelzwaar - pre Euro wetgeving (1984)	Personenauto - benzine - middelzwaar - pre Euro wetgeving (1984)
+LPAB1984ZWA	Personenauto - benzine - zwaar - pre Euro wetgeving (1984)	Personenauto - benzine - zwaar - pre Euro wetgeving (1984)
+LPAB1985LCH	Personenauto - benzine - licht - pre Euro wetgeving (1985)	Personenauto - benzine - licht - pre Euro wetgeving (1985)
+LPAB1985MED	Personenauto - benzine - middelzwaar - pre Euro wetgeving (1985)	Personenauto - benzine - middelzwaar - pre Euro wetgeving (1985)
+LPAB1985ZWA	Personenauto - benzine - zwaar - pre Euro wetgeving (1985)	Personenauto - benzine - zwaar - pre Euro wetgeving (1985)
+LPAB1986LCH	Personenauto - benzine - licht - pre Euro wetgeving (1986)	Personenauto - benzine - licht - pre Euro wetgeving (1986)
+LPAB1986MED	Personenauto - benzine - middelzwaar - pre Euro wetgeving (1986)	Personenauto - benzine - middelzwaar - pre Euro wetgeving (1986)
+LPAB1986ZWA	Personenauto - benzine - zwaar - pre Euro wetgeving (1986)	Personenauto - benzine - zwaar - pre Euro wetgeving (1986)
+LPAB1987LCH	Personenauto - benzine - licht - pre Euro wetgeving (1987)	Personenauto - benzine - licht - pre Euro wetgeving (1987)
+LPAB1987MED	Personenauto - benzine - middelzwaar - pre Euro wetgeving (1987)	Personenauto - benzine - middelzwaar - pre Euro wetgeving (1987)
+LPAB1987ZWA	Personenauto - benzine - zwaar - pre Euro wetgeving (1987)	Personenauto - benzine - zwaar - pre Euro wetgeving (1987)
+LPAB1988LCH	Personenauto - benzine - licht - pre Euro wetgeving (1988)	Personenauto - benzine - licht - pre Euro wetgeving (1988)
+LPAB1988MED	Personenauto - benzine - middelzwaar - pre Euro wetgeving (1988)	Personenauto - benzine - middelzwaar - pre Euro wetgeving (1988)
+LPAB1988ZWA	Personenauto - benzine - zwaar - pre Euro wetgeving (1988)	Personenauto - benzine - zwaar - pre Euro wetgeving (1988)
+LPAB1989LCH	Personenauto - benzine - licht - pre Euro wetgeving (1989)	Personenauto - benzine - licht - pre Euro wetgeving (1989)
+LPAB1989MED	Personenauto - benzine - middelzwaar - pre Euro wetgeving (1989)	Personenauto - benzine - middelzwaar - pre Euro wetgeving (1989)
+LPAB1989ZWA	Personenauto - benzine - zwaar - pre Euro wetgeving (1989)	Personenauto - benzine - zwaar - pre Euro wetgeving (1989)
+LPAB1990LCH	Personenauto - benzine - licht - pre Euro wetgeving (1990)	Personenauto - benzine - licht - pre Euro wetgeving (1990)
+LPAB1990MED	Personenauto - benzine - middelzwaar - pre Euro wetgeving (1990)	Personenauto - benzine - middelzwaar - pre Euro wetgeving (1990)
+LPAB1990ZWA	Personenauto - benzine - zwaar - pre Euro wetgeving (1990)	Personenauto - benzine - zwaar - pre Euro wetgeving (1990)
+LPAB1991LCH	Personenauto - benzine - licht - pre Euro wetgeving (1991)	Personenauto - benzine - licht - pre Euro wetgeving (1991)
+LPAB1991MED	Personenauto - benzine - middelzwaar - pre Euro wetgeving (1997)	Personenauto - benzine - middelzwaar - pre Euro wetgeving (1997)
+LPAB1991ZWA	Personenauto - benzine - zwaar - pre Euro wetgeving (1997)	Personenauto - benzine - zwaar - pre Euro wetgeving (1997)
+LPAB1992LCH	Personenauto - benzine - licht - pre Euro wetgeving (1992)	Personenauto - benzine - licht - pre Euro wetgeving (1992)
+LPAB1992MED	Personenauto - benzine - middelzwaar - pre Euro wetgeving (1992)	Personenauto - benzine - middelzwaar - pre Euro wetgeving (1992)
+LPAB1992ZWA	Personenauto - benzine - zwaar - pre Euro wetgeving (1992)	Personenauto - benzine - zwaar - pre Euro wetgeving (1992)
+LPABEUR1	Personenauto - benzine - Euro-1	Personenauto - benzine - Euro-1
+LPABEUR2	Personenauto - benzine - Euro-2	Personenauto - benzine - Euro-2
+LPABEUR3	Personenauto - benzine - Euro-3	Personenauto - benzine - Euro-3
+LPABEUR4	Personenauto - benzine - Euro-4	Personenauto - benzine - Euro-4
+LPABEUR5	Personenauto - benzine - Euro-5	Personenauto - benzine - Euro-5
+LPABEUR6	Personenauto - benzine - Euro-6	Personenauto - benzine - Euro-6
+LPABO3WCLCH	Personenauto - benzine - licht - pre Euro wetgeving (< 1992)	Personenauto - benzine - licht - pre Euro wetgeving (< 1992)
+LPABO3WCMED	Personenauto - benzine - middelzwaar - pre Euro wetgeving (< 1992)	Personenauto - benzine - middelzwaar - pre Euro wetgeving (< 1992)
+LPABO3WCZWA	Personenauto - benzine - zwaar - pre Euro wetgeving (< 1992)	Personenauto - benzine - zwaar - pre Euro wetgeving (< 1992)
+LPABPR82LCH	Personenauto - benzine - licht - pre Euro wetgeving (< 1982)	Personenauto - benzine - licht - pre Euro wetgeving (< 1982)
+LPABPR82MED	Personenauto - benzine - middelzwaar - pre Euro wetgeving (< 1982)	Personenauto - benzine - middelzwaar - pre Euro wetgeving (< 1982)
+LPABPR82ZWA	Personenauto - benzine - zwaar - pre Euro wetgeving (< 1982)	Personenauto - benzine - zwaar - pre Euro wetgeving (< 1982)
+LPABR3WC	Personenauto - benzine - pre Euro wetgeving (< 1992)	Personenauto - benzine - pre Euro wetgeving (< 1992)
+LPACEUR0	Personenauto - CNG - pre Euro wetgeving (< 1992)	Personenauto - CNG - pre Euro wetgeving (< 1992)
+LPACEUR1	Personenauto - CNG - Euro-1	Personenauto - CNG - Euro-1
+LPACEUR2	Personenauto - CNG - Euro-2	Personenauto - CNG - Euro-2
+LPACEUR3	Personenauto - CNG - Euro-3	Personenauto - CNG - Euro-3
+LPACEUR4	Personenauto - CNG - Euro-4	Personenauto - CNG - Euro-4
+LPACEUR5	Personenauto - CNG - Euro-5	Personenauto - CNG - Euro-5
+LPACEUR6	Personenauto - CNG - Euro-6	Personenauto - CNG - Euro-6
+LPAD1982LCH	Personenauto - diesel - licht - pre Euro wetgeving (1982)	Personenauto - diesel - licht - pre Euro wetgeving (1982)
+LPAD1982MED	Personenauto - diesel - middelzwaar - pre Euro wetgeving (1982)	Personenauto - diesel - middelzwaar - pre Euro wetgeving (1982)
+LPAD1982ZWA	Personenauto - diesel - zwaar - pre Euro wetgeving (1982)	Personenauto - diesel - zwaar - pre Euro wetgeving (1982)
+LPAD1983LCH	Personenauto - diesel - licht - pre Euro wetgeving (1983)	Personenauto - diesel - licht - pre Euro wetgeving (1983)
+LPAD1983MED	Personenauto - diesel - middelzwaar - pre Euro wetgeving (1983)	Personenauto - diesel - middelzwaar - pre Euro wetgeving (1983)
+LPAD1983ZWA	Personenauto - diesel - zwaar - pre Euro wetgeving (1983)	Personenauto - diesel - zwaar - pre Euro wetgeving (1983)
+LPAD1984LCH	Personenauto - diesel - licht - pre Euro wetgeving (1984)	Personenauto - diesel - licht - pre Euro wetgeving (1984)
+LPAD1984MED	Personenauto - diesel - middelzwaar - pre Euro wetgeving (1984)	Personenauto - diesel - middelzwaar - pre Euro wetgeving (1984)
+LPAD1984ZWA	Personenauto - diesel - zwaar - pre Euro wetgeving (1984)	Personenauto - diesel - zwaar - pre Euro wetgeving (1984)
+LPAD1985LCH	Personenauto - diesel - licht - pre Euro wetgeving (1985)	Personenauto - diesel - licht - pre Euro wetgeving (1985)
+LPAD1985MED	Personenauto - diesel - middelzwaar - pre Euro wetgeving (1985)	Personenauto - diesel - middelzwaar - pre Euro wetgeving (1985)
+LPAD1985ZWA	Personenauto - diesel - zwaar - pre Euro wetgeving (1985)	Personenauto - diesel - zwaar - pre Euro wetgeving (1985)
+LPAD1986LCH	Personenauto - diesel - licht - pre Euro wetgeving (1986)	Personenauto - diesel - licht - pre Euro wetgeving (1986)
+LPAD1986MED	Personenauto - diesel - middelzwaar - pre Euro wetgeving (1986)	Personenauto - diesel - middelzwaar - pre Euro wetgeving (1986)
+LPAD1986ZWA	Personenauto - diesel - zwaar - pre Euro wetgeving (1986)	Personenauto - diesel - zwaar - pre Euro wetgeving (1986)
+LPAD1987LCH	Personenauto - diesel - licht - pre Euro wetgeving (1987)	Personenauto - diesel - licht - pre Euro wetgeving (1987)
+LPAD1987MED	Personenauto - diesel - middelzwaar - pre Euro wetgeving (1987)	Personenauto - diesel - middelzwaar - pre Euro wetgeving (1987)
+LPAD1987ZWA	Personenauto - diesel - zwaar - pre Euro wetgeving (1987)	Personenauto - diesel - zwaar - pre Euro wetgeving (1987)
+LPAD1988LCH	Personenauto - diesel - licht - pre Euro wetgeving (1988)	Personenauto - diesel - licht - pre Euro wetgeving (1988)
+LPAD1988MED	Personenauto - diesel - middelzwaar - pre Euro wetgeving (1988)	Personenauto - diesel - middelzwaar - pre Euro wetgeving (1988)
+LPAD1988ZWA	Personenauto - diesel - zwaar - pre Euro wetgeving (1988)	Personenauto - diesel - zwaar - pre Euro wetgeving (1988)
+LPAD1989LCH	Personenauto - diesel - licht - pre Euro wetgeving (1989)	Personenauto - diesel - licht - pre Euro wetgeving (1989)
+LPAD1989MED	Personenauto - diesel - middelzwaar - pre Euro wetgeving (1989)	Personenauto - diesel - middelzwaar - pre Euro wetgeving (1989)
+LPAD1989ZWA	Personenauto - diesel - zwaar - pre Euro wetgeving (1989)	Personenauto - diesel - zwaar - pre Euro wetgeving (1989)
+LPAD1990LCH	Personenauto - diesel - licht - pre Euro wetgeving (1990)	Personenauto - diesel - licht - pre Euro wetgeving (1990)
+LPAD1990MED	Personenauto - diesel - middelzwaar - pre Euro wetgeving (1990)	Personenauto - diesel - middelzwaar - pre Euro wetgeving (1990)
+LPAD1990ZWA	Personenauto - diesel - zwaar - pre Euro wetgeving (1990)	Personenauto - diesel - zwaar - pre Euro wetgeving (1990)
+LPAD1991LCH	Personenauto - diesel - licht - pre Euro wetgeving (1991)	Personenauto - diesel - licht - pre Euro wetgeving (1991)
+LPAD1991MED	Personenauto - diesel - middelzwaar - pre Euro wetgeving (1997)	Personenauto - diesel - middelzwaar - pre Euro wetgeving (1997)
+LPAD1991ZWA	Personenauto - diesel - zwaar - pre Euro wetgeving (1997)	Personenauto - diesel - zwaar - pre Euro wetgeving (1997)
+LPAD1992LCH	Personenauto - diesel - licht - pre Euro wetgeving (1992)	Personenauto - diesel - licht - pre Euro wetgeving (1992)
+LPAD1992MED	Personenauto - diesel - middelzwaar - pre Euro wetgeving (1992)	Personenauto - diesel - middelzwaar - pre Euro wetgeving (1992)
+LPAD1992ZWA	Personenauto - diesel - zwaar - pre Euro wetgeving (1992)	Personenauto - diesel - zwaar - pre Euro wetgeving (1992)
+LPADEUA6	Personenauto - diesel - Euro-6 pre-RDE	Personenauto - diesel - Euro-6 pre-RDE
+LPADEUD6	Personenauto - diesel - Euro-6 RDE	Personenauto - diesel - Euro-6 RDE
+LPADEUR1	Personenauto - diesel - Euro-1	Personenauto - diesel - Euro-1
+LPADEUR2	Personenauto - diesel - Euro-2	Personenauto - diesel - Euro-2
+LPADEUR3	Personenauto - diesel - Euro-3	Personenauto - diesel - Euro-3
+LPADEUR3HOF	Personenauto - diesel - Euro-3 - halfopen filter	Personenauto - diesel - Euro-3 - halfopen filter
+LPADEUR4	Personenauto - diesel - Euro-4	Personenauto - diesel - Euro-4
+LPADEUR4DPF	Personenauto - diesel - Euro-4 - DPF	Personenauto - diesel - Euro-4 - DPF
+LPADEUR4HOF	Personenauto - diesel - Euro-4 - halfopen filter	Personenauto - diesel - Euro-4 - halfopen filter
+LPADEUR5	Personenauto - diesel - Euro-5	Personenauto - diesel - Euro-5
+LPADPR82LCH	Personenauto - diesel - licht - pre Euro wetgeving (< 1982)	Personenauto - diesel - licht - pre Euro wetgeving (< 1982)
+LPADPR82MED	Personenauto - diesel - middelzwaar - pre Euro wetgeving (< 1982)	Personenauto - diesel - middelzwaar - pre Euro wetgeving (< 1982)
+LPADPR82ZWA	Personenauto - diesel - zwaar - pre Euro wetgeving (< 1982)	Personenauto - diesel - zwaar - pre Euro wetgeving (< 1982)
+LPAEZEEV	Personenauto - elektrisch	Personenauto - elektrisch
+LPAHZEEV	Personenauto - waterstof	Personenauto - waterstof
+LPAL1982LCH	Personenauto - LPG - licht - pre Euro wetgeving (1982)	Personenauto - LPG - licht - pre Euro wetgeving (1982)
+LPAL1982MED	Personenauto - LPG - middelzwaar - pre Euro wetgeving (1982)	Personenauto - LPG - middelzwaar - pre Euro wetgeving (1982)
+LPAL1982ZWA	Personenauto - LPG - zwaar - pre Euro wetgeving (1982)	Personenauto - LPG - zwaar - pre Euro wetgeving (1982)
+LPAL1983LCH	Personenauto - LPG - licht - pre Euro wetgeving (1983)	Personenauto - LPG - licht - pre Euro wetgeving (1983)
+LPAL1983MED	Personenauto - LPG - middelzwaar - pre Euro wetgeving (1983)	Personenauto - LPG - middelzwaar - pre Euro wetgeving (1983)
+LPAL1983ZWA	Personenauto - LPG - zwaar - pre Euro wetgeving (1983)	Personenauto - LPG - zwaar - pre Euro wetgeving (1983)
+LPAL1984LCH	Personenauto - LPG - licht - pre Euro wetgeving (1984)	Personenauto - LPG - licht - pre Euro wetgeving (1984)
+LPAL1984MED	Personenauto - LPG - middelzwaar - pre Euro wetgeving (1984)	Personenauto - LPG - middelzwaar - pre Euro wetgeving (1984)
+LPAL1984ZWA	Personenauto - LPG - zwaar - pre Euro wetgeving (1984)	Personenauto - LPG - zwaar - pre Euro wetgeving (1984)
+LPAL1985LCH	Personenauto - LPG - licht - pre Euro wetgeving (1985)	Personenauto - LPG - licht - pre Euro wetgeving (1985)
+LPAL1985MED	Personenauto - LPG - middelzwaar - pre Euro wetgeving (1985)	Personenauto - LPG - middelzwaar - pre Euro wetgeving (1985)
+LPAL1985ZWA	Personenauto - LPG - zwaar - pre Euro wetgeving (1985)	Personenauto - LPG - zwaar - pre Euro wetgeving (1985)
+LPAL1986LCH	Personenauto - LPG - licht - pre Euro wetgeving (1986)	Personenauto - LPG - licht - pre Euro wetgeving (1986)
+LPAL1986MED	Personenauto - LPG - middelzwaar - pre Euro wetgeving (1986)	Personenauto - LPG - middelzwaar - pre Euro wetgeving (1986)
+LPAL1986ZWA	Personenauto - LPG - zwaar - pre Euro wetgeving (1986)	Personenauto - LPG - zwaar - pre Euro wetgeving (1986)
+LPAL1987LCH	Personenauto - LPG - licht - pre Euro wetgeving (1987)	Personenauto - LPG - licht - pre Euro wetgeving (1987)
+LPAL1987MED	Personenauto - LPG - middelzwaar - pre Euro wetgeving (1987)	Personenauto - LPG - middelzwaar - pre Euro wetgeving (1987)
+LPAL1987ZWA	Personenauto - LPG - zwaar - pre Euro wetgeving (1987)	Personenauto - LPG - zwaar - pre Euro wetgeving (1987)
+LPAL1988LCH	Personenauto - LPG - licht - pre Euro wetgeving (1988)	Personenauto - LPG - licht - pre Euro wetgeving (1988)
+LPAL1988MED	Personenauto - LPG - middelzwaar - pre Euro wetgeving (1988)	Personenauto - LPG - middelzwaar - pre Euro wetgeving (1988)
+LPAL1988ZWA	Personenauto - LPG - zwaar - pre Euro wetgeving (1988)	Personenauto - LPG - zwaar - pre Euro wetgeving (1988)
+LPAL1989LCH	Personenauto - LPG - licht - pre Euro wetgeving (1989)	Personenauto - LPG - licht - pre Euro wetgeving (1989)
+LPAL1989MED	Personenauto - LPG - middelzwaar - pre Euro wetgeving (1989)	Personenauto - LPG - middelzwaar - pre Euro wetgeving (1989)
+LPAL1989ZWA	Personenauto - LPG - zwaar - pre Euro wetgeving (1989)	Personenauto - LPG - zwaar - pre Euro wetgeving (1989)
+LPAL1990LCH	Personenauto - LPG - licht - pre Euro wetgeving (1990)	Personenauto - LPG - licht - pre Euro wetgeving (1990)
+LPAL1990MED	Personenauto - LPG - middelzwaar - pre Euro wetgeving (1990)	Personenauto - LPG - middelzwaar - pre Euro wetgeving (1990)
+LPAL1990ZWA	Personenauto - LPG - zwaar - pre Euro wetgeving (1990)	Personenauto - LPG - zwaar - pre Euro wetgeving (1990)
+LPAL1991LCH	Personenauto - LPG - licht - pre Euro wetgeving (1991)	Personenauto - LPG - licht - pre Euro wetgeving (1991)
+LPAL1991MED	Personenauto - LPG - middelzwaar - pre Euro wetgeving (1997)	Personenauto - LPG - middelzwaar - pre Euro wetgeving (1997)
+LPAL1991ZWA	Personenauto - LPG - zwaar - pre Euro wetgeving (1997)	Personenauto - LPG - zwaar - pre Euro wetgeving (1997)
+LPAL1992LCH	Personenauto - LPG - licht - pre Euro wetgeving (1992)	Personenauto - LPG - licht - pre Euro wetgeving (1992)
+LPAL1992MED	Personenauto - LPG - middelzwaar - pre Euro wetgeving (1992)	Personenauto - LPG - middelzwaar - pre Euro wetgeving (1992)
+LPAL1992ZWA	Personenauto - LPG - zwaar - pre Euro wetgeving (1992)	Personenauto - LPG - zwaar - pre Euro wetgeving (1992)
+LPALEUR1	Personenauto - LPG - Euro-1	Personenauto - LPG - Euro-1
+LPALEUR2	Personenauto - LPG - Euro-2	Personenauto - LPG - Euro-2
+LPALEUR3	Personenauto - LPG - Euro-3	Personenauto - LPG - Euro-3
+LPALEUR4	Personenauto - LPG - Euro-4	Personenauto - LPG - Euro-4
+LPALEUR5	Personenauto - LPG - Euro-5	Personenauto - LPG - Euro-5
+LPALEUR6	Personenauto - LPG - Euro-6	Personenauto - LPG - Euro-6
+LPALO3WCLCH	Personenauto - LPG - licht - pre Euro wetgeving (< 1992)	Personenauto - LPG - licht - pre Euro wetgeving (< 1992)
+LPALO3WCMED	Personenauto - LPG - middelzwaar - pre Euro wetgeving (< 1992)	Personenauto - LPG - middelzwaar - pre Euro wetgeving (< 1992)
+LPALO3WCZWA	Personenauto - LPG - zwaar - pre Euro wetgeving (< 1992)	Personenauto - LPG - zwaar - pre Euro wetgeving (< 1992)
+LPALPR82LCH	Personenauto - LPG - licht - pre Euro wetgeving (< 1982)	Personenauto - LPG - licht - pre Euro wetgeving (< 1982)
+LPALPR82MED	Personenauto - LPG - middelzwaar - pre Euro wetgeving (< 1982)	Personenauto - LPG - middelzwaar - pre Euro wetgeving (< 1982)
+LPALPR82ZWA	Personenauto - LPG - zwaar - pre Euro wetgeving (< 1982)	Personenauto - LPG - zwaar - pre Euro wetgeving (< 1982)
+LPALR3WC	Personenauto - LPG - pre Euro wetgeving (< 1992)	Personenauto - LPG - pre Euro wetgeving (< 1992)
+LPEBEUR5	Personenauto plug-in hybride - benzine - Euro-5	Personenauto plug-in hybride - benzine - Euro-5
+LPEBEUR6	Personenauto plug-in hybride - benzine - Euro-6	Personenauto plug-in hybride - benzine - Euro-6
+LPEDEUA6	Personenauto plug-in hybride - diesel - Euro-6 pre-RDE	Personenauto plug-in hybride - diesel - Euro-6 pre-RDE
+LPEDEUD6	Personenauto plug-in hybride - diesel - Euro-6 RDE	Personenauto plug-in hybride - diesel - Euro-6 RDE
+LPEDEUR5	Personenauto plug-in hybride - diesel - Euro-5	Personenauto plug-in hybride - diesel - Euro-5
+LTRDEUA6CL3	Trekker - diesel - licht - Euro-6 pre-RDE - N1 klasse 3	Trekker - diesel - licht - Euro-6 pre-RDE - N1 klasse 3
+LTRDEUD6CL3	Trekker - diesel - licht - Euro-6 RDE - N1 klasse 3	Trekker - diesel - licht - Euro-6 RDE - N1 klasse 3
+LTRDEUR1CL3	Trekker - diesel - licht - Euro-1 - N1 klasse 3	Trekker - diesel - licht - Euro-1 - N1 klasse 3
+LTRDEUR2CL3	Trekker - diesel - licht - Euro-2 - N1 klasse 3	Trekker - diesel - licht - Euro-2 - N1 klasse 3
+LTRDEUR3CL3	Trekker - diesel - licht - Euro-3 - N1 klasse 3	Trekker - diesel - licht - Euro-3 - N1 klasse 3
+LTRDEUR4CL3	Trekker - diesel - licht - Euro-4 - N1 klasse 3	Trekker - diesel - licht - Euro-4 - N1 klasse 3
+LTRDEUR4CL3DPF	Trekker - diesel - licht - Euro-4 - DPF - N1 klasse 3	Trekker - diesel - licht - Euro-4 - DPF - N1 klasse 3
+LTRDEUR5CL3	Trekker - diesel - licht - Euro-5 - N1 klasse 3	Trekker - diesel - licht - Euro-5 - N1 klasse 3
+LTREZEEV	Trekker - elektrisch - licht	Trekker - elektrisch - licht
+MVABEUR0LCH	Vrachtauto - benzine - middelzwaar - pre Euro wetgeving (1992) - licht	Vrachtauto - benzine - middelzwaar - pre Euro wetgeving (1992) - licht
+MVABEUR0ZWA	Vrachtauto - benzine - middelzwaar - pre Euro wetgeving (1992) - zwaar	Vrachtauto - benzine - middelzwaar - pre Euro wetgeving (1992) - zwaar
+MVACEUR6LCH	Vrachtauto - CNG - middelzwaar - Euro-6 - licht	Vrachtauto - CNG - middelzwaar - Euro-6 - licht
+MVACEUR6ZWA	Vrachtauto - CNG - middelzwaar - Euro-6 - zwaar	Vrachtauto - CNG - middelzwaar - Euro-6 - zwaar
+MVADEDE5LCHSCR	Vrachtauto - diesel - middelzwaar - Euro-5 Step D en E - SCR - licht	Vrachtauto - diesel - middelzwaar - Euro-5 Step D en E - SCR - licht
+MVADEDE5SCRZWA	Vrachtauto - diesel - middelzwaar - Euro-5 Step D en E - SCR - zwaar	Vrachtauto - diesel - middelzwaar - Euro-5 Step D en E - SCR - zwaar
+MVADEUG5EGRLCH	Vrachtauto - diesel - middelzwaar - Euro-5 Step G - EGR - licht	Vrachtauto - diesel - middelzwaar - Euro-5 Step G - EGR - licht
+MVADEUG5EGRZWA	Vrachtauto - diesel - middelzwaar - Euro-5 Step G - EGR - zwaar	Vrachtauto - diesel - middelzwaar - Euro-5 Step G - EGR - zwaar
+MVADEUG5LCHSCR	Vrachtauto - diesel - middelzwaar - Euro-5 Step G - SCR - licht	Vrachtauto - diesel - middelzwaar - Euro-5 Step G - SCR - licht
+MVADEUG5SCRZWA	Vrachtauto - diesel - middelzwaar - Euro-5 Step G - SCR - zwaar	Vrachtauto - diesel - middelzwaar - Euro-5 Step G - SCR - zwaar
+MVADEUR0LCH	Vrachtauto - diesel - middelzwaar - pre Euro wetgeving (1992) - licht	Vrachtauto - diesel - middelzwaar - pre Euro wetgeving (1992) - licht
+MVADEUR0ZWA	Vrachtauto - diesel - middelzwaar - pre Euro wetgeving (1992) - zwaar	Vrachtauto - diesel - middelzwaar - pre Euro wetgeving (1992) - zwaar
+MVADEUR1LCH	Vrachtauto - diesel - middelzwaar - Euro-1 - licht	Vrachtauto - diesel - middelzwaar - Euro-1 - licht
+MVADEUR1ZWA	Vrachtauto - diesel - middelzwaar - Euro-1 - zwaar	Vrachtauto - diesel - middelzwaar - Euro-1 - zwaar
+MVADEUR2LCH	Vrachtauto - diesel - middelzwaar - Euro-2 - licht	Vrachtauto - diesel - middelzwaar - Euro-2 - licht
+MVADEUR2ZWA	Vrachtauto - diesel - middelzwaar - Euro-2 - zwaar	Vrachtauto - diesel - middelzwaar - Euro-2 - zwaar
+MVADEUR3DPFLCH	Vrachtauto - diesel - middelzwaar - Euro-3 - DPF - licht	Vrachtauto - diesel - middelzwaar - Euro-3 - DPF - licht
+MVADEUR3DPFZWA	Vrachtauto - diesel - middelzwaar - Euro-3 - DPF - zwaar	Vrachtauto - diesel - middelzwaar - Euro-3 - DPF - zwaar
+MVADEUR3HOFLCH	Vrachtauto - diesel - middelzwaar - Euro-3 - halfopen filter - licht	Vrachtauto - diesel - middelzwaar - Euro-3 - halfopen filter - licht
+MVADEUR3HOFZWA	Vrachtauto - diesel - middelzwaar - Euro-3 - halfopen filter - zwaar	Vrachtauto - diesel - middelzwaar - Euro-3 - halfopen filter - zwaar
+MVADEUR3LCH	Vrachtauto - diesel - middelzwaar - Euro-3 - licht	Vrachtauto - diesel - middelzwaar - Euro-3 - licht
+MVADEUR3ZWA	Vrachtauto - diesel - middelzwaar - Euro-3 - zwaar	Vrachtauto - diesel - middelzwaar - Euro-3 - zwaar
+MVADEUR4LCH	Vrachtauto - diesel - middelzwaar - Euro-4 - licht	Vrachtauto - diesel - middelzwaar - Euro-4 - licht
+MVADEUR4ZWA	Vrachtauto - diesel - middelzwaar - Euro-4 - zwaar	Vrachtauto - diesel - middelzwaar - Euro-4 - zwaar
+MVADEUR6LCH	Vrachtauto - diesel - middelzwaar - Euro-6 - licht	Vrachtauto - diesel - middelzwaar - Euro-6 - licht
+MVADEUR6ZWA	Vrachtauto - diesel - middelzwaar - Euro-6 - zwaar	Vrachtauto - diesel - middelzwaar - Euro-6 - zwaar
+MVADPR82LCH	Vrachtauto - diesel - middelzwaar - pre Euro wetgeving (< 1982) - licht	Vrachtauto - diesel - middelzwaar - pre Euro wetgeving (< 1982) - licht
+MVADPR82MED	Vrachtauto - diesel - middelzwaar - pre Euro wetgeving (< 1982) - middelzwaar	Vrachtauto - diesel - middelzwaar - pre Euro wetgeving (< 1982) - middelzwaar
+MVADPR82ZWA	Vrachtauto - diesel - middelzwaar - pre Euro wetgeving (< 1982) - zwaar	Vrachtauto - diesel - middelzwaar - pre Euro wetgeving (< 1982) - zwaar
+MVAEZEEVLCH	Vrachtauto - elektrisch - middelzwaar - licht	Vrachtauto - elektrisch - middelzwaar - licht
+MVAEZEEVZWA	Vrachtauto - elektrisch - middelzwaar - zwaar	Vrachtauto - elektrisch - middelzwaar - zwaar
+MVALEUR0LCH	Vrachtauto - LPG - middelzwaar - pre Euro wetgeving (1992) - licht	Vrachtauto - LPG - middelzwaar - pre Euro wetgeving (1992) - licht
+ZTRBEUR0	Trekker - benzine - zwaar - pre Euro wetgeving (1992)	Trekker - benzine - zwaar - pre Euro wetgeving (1992)
+ZTRCEUR6LCH	Trekker - CNG - zwaar - Euro-6 - licht	Trekker - CNG - zwaar - Euro-6 - licht
+ZTRCEUR6ZWA	Trekker - CNG - zwaar - Euro-6 - zwaar	Trekker - CNG - zwaar - Euro-6 - zwaar
+ZTRDEDE5LCHSCR	Trekker - diesel - zwaar - Euro-5 Step D en E - SCR - licht	Trekker - diesel - zwaar - Euro-5 Step D en E - SCR - licht
+ZTRDEDE5SCRZWA	Trekker - diesel - zwaar - Euro-5 Step D en E - SCR - zwaar	Trekker - diesel - zwaar - Euro-5 Step D en E - SCR - zwaar
+ZTRDEUG5EGRLCH	Trekker - diesel - zwaar - Euro-5 Step G - EGR - licht	Trekker - diesel - zwaar - Euro-5 Step G - EGR - licht
+ZTRDEUG5EGRZWA	Trekker - diesel - zwaar - Euro-5 Step G - EGR - zwaar	Trekker - diesel - zwaar - Euro-5 Step G - EGR - zwaar
+ZTRDEUG5LCHSCR	Trekker - diesel - zwaar - Euro-5 Step G - SCR - licht	Trekker - diesel - zwaar - Euro-5 Step G - SCR - licht
+ZTRDEUG5SCRZWA	Trekker - diesel - zwaar - Euro-5 Step G - SCR - zwaar	Trekker - diesel - zwaar - Euro-5 Step G - SCR - zwaar
+ZTRDEUR0	Trekker - diesel - zwaar - pre Euro wetgeving (1992)	Trekker - diesel - zwaar - pre Euro wetgeving (1992)
+ZTRDEUR1	Trekker - diesel - zwaar - Euro-1	Trekker - diesel - zwaar - Euro-1
+ZTRDEUR2	Trekker - diesel - zwaar - Euro-2	Trekker - diesel - zwaar - Euro-2
+ZTRDEUR3	Trekker - diesel - zwaar - Euro-3	Trekker - diesel - zwaar - Euro-3
+ZTRDEUR3DPF	Trekker - diesel - zwaar - Euro-3 - DPF	Trekker - diesel - zwaar - Euro-3 - DPF
+ZTRDEUR3HOF	Trekker - diesel - zwaar - Euro-3 - halfopen filter	Trekker - diesel - zwaar - Euro-3 - halfopen filter
+ZTRDEUR4	Trekker - diesel - zwaar - Euro-4	Trekker - diesel - zwaar - Euro-4
+ZTRDEUR6LCH	Trekker - diesel - zwaar - Euro-6 - licht	Trekker - diesel - zwaar - Euro-6 - licht
+ZTRDEUR6ZWA	Trekker - diesel - zwaar - Euro-6 - zwaar	Trekker - diesel - zwaar - Euro-6 - zwaar
+ZTRDPR82	Trekker - diesel - zwaar - pre Euro wetgeving (< 1982)	Trekker - diesel - zwaar - pre Euro wetgeving (< 1982)
+ZTREZEEVLCH	Trekker - elektrisch - zwaar - licht	Trekker - elektrisch - zwaar - licht
+ZTRLEUR0	Trekker - LPG - zwaar - pre Euro wetgeving (1992)	Trekker - LPG - zwaar - pre Euro wetgeving (1992)
+ZVABEUR0	Vrachtauto - benzine - zwaar - pre Euro wetgeving (1992)	Vrachtauto - benzine - zwaar - pre Euro wetgeving (1992)
+ZVACEUR6	Vrachtauto - CNG - zwaar - Euro-6	Vrachtauto - CNG - zwaar - Euro-6
+ZVADEDE5ANHLCHSCR	Vrachtauto - diesel - zwaar - Euro-5 Step D en E - SCR - met aanhanger - licht	Vrachtauto - diesel - zwaar - Euro-5 Step D en E - SCR - met aanhanger - licht
+ZVADEDE5ANHSCRZWA	Vrachtauto - diesel - zwaar - Euro-5 Step D en E - SCR - met aanhanger - zwaar	Vrachtauto - diesel - zwaar - Euro-5 Step D en E - SCR - met aanhanger - zwaar
+ZVADEDE5SCR	Vrachtauto - diesel - zwaar - Euro-5 Step D en E - SCR	Vrachtauto - diesel - zwaar - Euro-5 Step D en E - SCR
+ZVADEUG5ANHEGRLCH	Vrachtauto - diesel - zwaar - Euro-5 Step G - EGR - met aanhanger - licht	Vrachtauto - diesel - zwaar - Euro-5 Step G - EGR - met aanhanger - licht
+ZVADEUG5ANHEGRZWA	Vrachtauto - diesel - zwaar - Euro-5 Step G - EGR - met aanhanger - zwaar	Vrachtauto - diesel - zwaar - Euro-5 Step G - EGR - met aanhanger - zwaar
+ZVADEUG5ANHLCHSCR	Vrachtauto - diesel - zwaar - Euro-5 Step G - SCR - met aanhanger - licht	Vrachtauto - diesel - zwaar - Euro-5 Step G - SCR - met aanhanger - licht
+ZVADEUG5ANHSCRZWA	Vrachtauto - diesel - zwaar - Euro-5 Step G - SCR - met aanhanger - zwaar	Vrachtauto - diesel - zwaar - Euro-5 Step G - SCR - met aanhanger - zwaar
+ZVADEUG5EGR	Vrachtauto - diesel - zwaar - Euro-5 Step G - EGR	Vrachtauto - diesel - zwaar - Euro-5 Step G - EGR
+ZVADEUG5SCR	Vrachtauto - diesel - zwaar - Euro-5 Step G - SCR	Vrachtauto - diesel - zwaar - Euro-5 Step G - SCR
+ZVADEUR0	Vrachtauto - diesel - zwaar - pre Euro wetgeving (1992)	Vrachtauto - diesel - zwaar - pre Euro wetgeving (1992)
+ZVADEUR0ANHLCH	Vrachtauto - diesel - zwaar - pre Euro wetgeving (1992) - met aanhanger - licht	Vrachtauto - diesel - zwaar - pre Euro wetgeving (1992) - met aanhanger - licht
+ZVADEUR0ANHZWA	Vrachtauto - diesel - zwaar - pre Euro wetgeving (1992) - met aanhanger - zwaar	Vrachtauto - diesel - zwaar - pre Euro wetgeving (1992) - met aanhanger - zwaar
+ZVADEUR1	Vrachtauto - diesel - zwaar - Euro-1	Vrachtauto - diesel - zwaar - Euro-1
+ZVADEUR1ANHLCH	Vrachtauto - diesel - zwaar - Euro-1 - met aanhanger - licht	Vrachtauto - diesel - zwaar - Euro-1 - met aanhanger - licht
+ZVADEUR1ANHZWA	Vrachtauto - diesel - zwaar - Euro-1 - met aanhanger - zwaar	Vrachtauto - diesel - zwaar - Euro-1 - met aanhanger - zwaar
+ZVADEUR2	Vrachtauto - diesel - zwaar - Euro-2	Vrachtauto - diesel - zwaar - Euro-2
+ZVADEUR2ANHLCH	Vrachtauto - diesel - zwaar - Euro-2 - met aanhanger - licht	Vrachtauto - diesel - zwaar - Euro-2 - met aanhanger - licht
+ZVADEUR2ANHZWA	Vrachtauto - diesel - zwaar - Euro-2 - met aanhanger - zwaar	Vrachtauto - diesel - zwaar - Euro-2 - met aanhanger - zwaar
+ZVADEUR3	Vrachtauto - diesel - zwaar - Euro-3	Vrachtauto - diesel - zwaar - Euro-3
+ZVADEUR3ANHDPFLCH	Vrachtauto - diesel - zwaar - Euro-3 - DPF - met aanhanger - licht	Vrachtauto - diesel - zwaar - Euro-3 - DPF - met aanhanger - licht
+ZVADEUR3ANHDPFZWA	Vrachtauto - diesel - zwaar - Euro-3 - DPF - met aanhanger - zwaar	Vrachtauto - diesel - zwaar - Euro-3 - DPF - met aanhanger - zwaar
+ZVADEUR3ANHHOFLCH	Vrachtauto - diesel - zwaar - Euro-3 - halfopen filter - met aanhanger - licht	Vrachtauto - diesel - zwaar - Euro-3 - halfopen filter - met aanhanger - licht
+ZVADEUR3ANHHOFZWA	Vrachtauto - diesel - zwaar - Euro-3 - halfopen filter - met aanhanger - zwaar	Vrachtauto - diesel - zwaar - Euro-3 - halfopen filter - met aanhanger - zwaar
+ZVADEUR3ANHLCH	Vrachtauto - diesel - zwaar - Euro-3 - met aanhanger - licht	Vrachtauto - diesel - zwaar - Euro-3 - met aanhanger - licht
+ZVADEUR3ANHZWA	Vrachtauto - diesel - zwaar - Euro-3 - met aanhanger - zwaar	Vrachtauto - diesel - zwaar - Euro-3 - met aanhanger - zwaar
+ZVADEUR3DPF	Vrachtauto - diesel - zwaar - Euro-3 - DPF	Vrachtauto - diesel - zwaar - Euro-3 - DPF
+ZVADEUR3HOF	Vrachtauto - diesel - zwaar - Euro-3 - halfopen filter	Vrachtauto - diesel - zwaar - Euro-3 - halfopen filter
+ZVADEUR4	Vrachtauto - diesel - zwaar - Euro-4	Vrachtauto - diesel - zwaar - Euro-4
+ZVADEUR4ANHLCH	Vrachtauto - diesel - zwaar - Euro-4 - met aanhanger - licht	Vrachtauto - diesel - zwaar - Euro-4 - met aanhanger - licht
+ZVADEUR4ANHZWA	Vrachtauto - diesel - zwaar - Euro-4 - met aanhanger - zwaar	Vrachtauto - diesel - zwaar - Euro-4 - met aanhanger - zwaar
+ZVADEUR6	Vrachtauto - diesel - zwaar - Euro-6	Vrachtauto - diesel - zwaar - Euro-6
+ZVADEUR6ANHLCH	Vrachtauto - diesel - zwaar - Euro-6 - met aanhanger - licht	Vrachtauto - diesel - zwaar - Euro-6 - met aanhanger - licht
+ZVADEUR6ANHZWA	Vrachtauto - diesel - zwaar - Euro-6 - met aanhanger - zwaar	Vrachtauto - diesel - zwaar - Euro-6 - met aanhanger - zwaar
+ZVAEZEEV	Vrachtauto - elektrisch - zwaar	Vrachtauto - elektrisch - zwaar
