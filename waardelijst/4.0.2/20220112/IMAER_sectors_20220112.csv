@@ -1,0 +1,40 @@
+code	name	description
+1050	1050	Afvalverwerking
+1100	1100	Voedings- en genotmiddelen
+1300	1300	Chemische industrie
+1400	1400	Bouwmaterialen
+1500	1500	Basismetaal
+1700	1700	Metaalbewerkingsindustrie
+1800	1800	Industrie Overig
+2100	2100	Energie
+3111	3111	Snelwegen
+3112	3112	Buitenwegen
+3113	3113	Binnen bebouwde kom
+3210	3210	Landbouw mobiele werktuigen
+3220	3220	Bouw, Industrie en Delfstoffenwinning
+3530	3530	Consumenten mobiele werktuigen
+3610	3610	Stijgen
+3620	3620	Landen
+3630	3630	Taxiën
+3640	3640	Bronnen luchthaventerrein
+3710	3710	Emplacement
+3720	3720	Spoorweg
+4110	4110	Stalemissies
+4120	4120	Mestopslag
+4130	4130	Beweiding
+4140	4140	Mestaanwending
+4150	4150	Landbouwgrond
+4200	4200	Mestaanwending kunstmest
+4320	4320	Glastuinbouw
+4400	4400	Afrijping, overige
+4600	4600	Overige landbouw
+7510	7510	Zeescheepvaart: Aanlegplaats
+7520	7520	Zeescheepvaart: Binnengaats route
+7530	7530	Zeescheepvaart: Zeeroute
+7610	7610	Binnenvaart: Aanlegplaats
+7620	7620	Binnenvaart: Vaarroute
+8200	8200	Woningen
+8210	8210	Recreatie
+8640	8640	Kantoren en winkels
+9000	9000	Plan
+9999	9999	Overig
