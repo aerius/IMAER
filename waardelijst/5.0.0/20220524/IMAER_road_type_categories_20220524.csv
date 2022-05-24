@@ -1,0 +1,7 @@
+code	name	description
+FREEWAY	Snelweg	Snelweg
+NON_URBAN_ROAD_GENERAL	Buitenweg (met stagnatie effect)	Buitenweg (met stagnatie effect)
+NON_URBAN_ROAD_NATIONAL	Buitenweg (zonder stagnatie effect)	Buitenweg (zonder stagnatie effect)
+URBAN_ROAD_FREE_FLOW	Binnen bebouwde kom, minder congestie	Binnen bebouwde kom, minder congestie
+URBAN_ROAD_NORMAL	Binnen bebouwde kom, normaal	Binnen bebouwde kom, normaal
+URBAN_ROAD_STAGNATING	Binnen bebouwde kom, stagnerend	Binnen bebouwde kom, stagnerend
