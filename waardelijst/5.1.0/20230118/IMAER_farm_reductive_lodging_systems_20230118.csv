@@ -1,0 +1,229 @@
+code	name	description
+A1.17	A 1.17	mechanisch geventileerde stal met een chemisch luchtwassysteem
+A1.39	A 1.39	Natuurlijk geventileerde ligboxenstal met een roostervloer voorzien van inlays met urineafvoergaatjes in de roosterspleten, frequent bevochtigen en schoonzuigen van de vloer door een mestverzamelrobot en een mechanische kelderluchtafzuiging met een chemisch luchtwassysteem (95% emissiereductie)
+A4.1	A 4.1	mechanisch geventileerde stal met een chemisch luchtwassysteem met 90% emissiereductie
+A4.2	A 4.2	mechanisch geventileerde stal met een biologisch luchtwassysteem met 70% emissiereductie
+A4.3	A 4.3	mechanisch geventileerde stal met een chemisch luchtwassysteem met 70% emissiereductie
+A4.4	A 4.4	mechanisch geventileerde stal met een chemisch luchtwassysteem met 95% emissiereductie
+A4.5.1	A 4.5.1	mechanisch geventileerde stal met een luchtwassysteem anders dan biologisch of chemisch; mechanisch geventileerde stal met een gecombineerd luchtwassysteem 85% emissiereductie met chemische wasser (lamellenfilter) en waterwasser
+A4.5.2	A 4.5.2	mechanisch geventileerde stal met een luchtwassysteem anders dan biologisch of chemisch; mechanisch geventileerde stal met een gecombineerd luchtwassysteem 70% emissiereductie met waterwasser, chemische wasser en biofilter
+A4.5.3	A 4.5.3	mechanisch geventileerde stal met een luchtwassysteem anders dan biologisch of chemisch; mechanisch geventileerde stal met een gecombineerd luchtwassysteem 85% emissiereductie met waterwasser, chemische wasser en biofilter
+A4.5.4	A 4.5.4	mechanisch geventileerde stal met een luchtwassysteem anders dan biologisch of chemisch; mechanisch geventileerde stal met een gecombineerd luchtwassysteem 85% emissiereductie met watergordijn en biologische wasser
+A4.5.5	A 4.5.5	mechanisch geventileerde stal met een luchtwassysteem anders dan biologisch of chemisch; mechanisch geventileerde stal met een gecombineerd luchtwassysteem 85% emissiereductie met waterwasser, biologische wasser en geurverwijderingssectie
+A4.5.6	A 4.5.6	mechanisch geventileerde stal met een luchtwassysteem anders dan biologisch of chemisch; mechanisch geventileerde stal met een gecombineerd luchtwassysteem 90% emissiereductie met een biologische en een chemische wasser en een biofilter
+A4.6	A 4.6	mechanisch geventileerde stal met een biologisch luchtwassysteem 85% emissiereductie
+C1.1.1	C 1.1.1	mechanisch geventileerde gesloten stal (BWL 2017.07) met een biologisch luchtwassysteem met 70% emissiereductie
+C1.1.2	C 1.1.2	mechanisch geventileerde gesloten stal (BWL 2017.07) met een chemisch luchtwassysteem met 70% emissiereductie
+C1.1.3	C 1.1.3	mechanisch geventileerde gesloten stal (BWL 2017.07) met een chemisch luchtwassysteem met 95% emissiereductie
+C1.1.4.1	C 1.1.4.1	mechanisch geventileerde gesloten stal (BWL 2017.07) met een gecombineerd luchtwassysteem met 85% emissiereductie (chemische wasser (lamellenfilter) en waterwasser)
+C1.1.4.2	C 1.1.4.2	mechanisch geventileerde gesloten stal (BWL 2017.07) met een gecombineerd luchtwassysteem met 70% emissiereductie (waterwasser, chemische wasser en biofilter)
+C1.1.4.3	C 1.1.4.3	mechanisch geventileerde gesloten stal (BWL 2017.07) met een gecombineerd luchtwassysteem met 85% emissiereductie (waterwasser, chemische wasser en biofilter)
+C1.1.4.4	C 1.1.4.4	mechanisch geventileerde gesloten stal (BWL 2017.07) met een gecombineerd luchtwassysteem met 85% emissiereductie (watergordijn en biologische wasser)
+C1.1.4.5	C 1.1.4.5	mechanisch geventileerde gesloten stal (BWL 2017.07) met een gecombineerd luchtwassysteem met 85% emissiereductie (waterwasser, biologische wasser en geurverwijderingssectie)
+C1.1.4.6	C 1.1.4.6	mechanisch geventileerde gesloten stal (BWL 2017.07) met een gecombineerd luchtwassysteem met 90% emissiereductie (biologische en chemische wasser en  biofilter)
+C1.1.5	C 1.1.5	mechanisch geventileerde gesloten stal (BWL 2017.07) met een biologisch luchtwassysteem met 85% emissiereductie
+C1.1.6	C 1.1.6	mechanisch geventileerde gesloten stal (BWL 2017.07) met een chemisch luchtwassysteem met 90% emissiereductie
+C2.1.1	C 2.1.1	mechanisch geventileerde gesloten stal (BWL 2017.07) met een biologisch luchtwassysteem met 70% emissiereductie
+C2.1.2	C 2.1.2	mechanisch geventileerde gesloten stal (BWL 2017.07) met een chemisch luchtwassysteem met 70% emissiereductie
+C2.1.3	C 2.1.3	mechanisch geventileerde gesloten stal (BWL 2017.07) met een chemisch luchtwassysteem met 95% emissiereductie
+C2.1.4.1	C 2.1.4.1	mechanisch geventileerde gesloten stal (BWL 2017.07) met een gecombineerd luchtwassysteem met 85% emissiereductie (chemische wasser (lamellenfilter) en waterwasser)
+C2.1.4.2	C 2.1.4.2	mechanisch geventileerde gesloten stal (BWL 2017.07) met een gecombineerd luchtwassysteem met 70% emissiereductie (waterwasser, chemische wasser en biofilter)
+C2.1.4.3	C 2.1.4.3	mechanisch geventileerde gesloten stal (BWL 2017.07) met een gecombineerd luchtwassysteem met 85% emissiereductie (waterwasser, chemische wasser en biofilter)
+C2.1.4.4	C 2.1.4.4	mechanisch geventileerde gesloten stal (BWL 2017.07) met een gecombineerd luchtwassysteem met 85% emissiereductie (watergordijn en biologische wasser)
+C2.1.4.5	C 2.1.4.5	mechanisch geventileerde gesloten stal (BWL 2017.07) met een gecombineerd luchtwassysteem met 85% emissiereductie (waterwasser, biologische wasser en geurverwijderingssectie)
+C2.1.4.6	C 2.1.4.6	mechanisch geventileerde gesloten stal (BWL 2017.07) met een gecombineerd luchtwassysteem met 90% emissiereductie (biologische en chemische wasser en  biofilter)
+C2.1.5	C 2.1.5	mechanisch geventileerde gesloten stal (BWL 2017.07) met een biologisch luchtwassysteem met 85% emissiereductie
+C2.1.6	C 2.1.6	mechanisch geventileerde gesloten stal (BWL 2017.07) met een chemisch luchtwassysteem met 90% emissiereductie
+C3.1.1	C 3.1.1	mechanisch geventileerde gesloten stal (BWL 2017.07) met een biologisch luchtwassysteem met 70% emissiereductie
+C3.1.2	C 3.1.2	mechanisch geventileerde gesloten stal (BWL 2017.07) met een chemisch luchtwassysteem met 70% emissiereductie
+C3.1.3	C 3.1.3	mechanisch geventileerde gesloten stal (BWL 2017.07) met een chemisch luchtwassysteem met 95% emissiereductie
+C3.1.4.1	C 3.1.4.1	mechanisch geventileerde gesloten stal (BWL 2017.07) met een gecombineerd luchtwassysteem met 85% emissiereductie (chemische wasser (lamellenfilter) en waterwasser)
+C3.1.4.2	C 3.1.4.2	mechanisch geventileerde gesloten stal (BWL 2017.07) met een gecombineerd luchtwassysteem met 70% emissiereductie (waterwasser, chemische wasser en biofilter)
+C3.1.4.3	C 3.1.4.3	mechanisch geventileerde gesloten stal (BWL 2017.07) met een gecombineerd luchtwassysteem met 85% emissiereductie (waterwasser, chemische wasser en biofilter)
+C3.1.4.4	C 3.1.4.4	mechanisch geventileerde gesloten stal (BWL 2017.07) met een gecombineerd luchtwassysteem met 85% emissiereductie (watergordijn en biologische wasser)
+C3.1.4.5	C 3.1.4.5	mechanisch geventileerde gesloten stal (BWL 2017.07) met een gecombineerd luchtwassysteem met 85% emissiereductie (waterwasser, biologische wasser en geurverwijderingssectie)
+C3.1.4.6	C 3.1.4.6	mechanisch geventileerde gesloten stal (BWL 2017.07) met een gecombineerd luchtwassysteem met 90% emissiereductie (biologische en chemische wasser en  biofilter)
+C3.1.5	C 3.1.5	mechanisch geventileerde gesloten stal (BWL 2017.07) met een biologisch luchtwassysteem met 85% emissiereductie
+C3.1.6	C 3.1.6	mechanisch geventileerde gesloten stal (BWL 2017.07) met een chemisch luchtwassysteem met 90% emissiereductie
+D1.1.10	D 1.1.10	chemisch luchtwassysteem 70% emissiereductie
+D1.1.14	D 1.1.14	chemisch luchtwassysteem 95% emissiereductie
+D1.1.15.1	D 1.1.15.1	luchtwassystemen anders dan biologisch of chemisch; gecombineerd luchtwassysteem 85% emissiereductie met chemische wasser (lamellenfilter) en waterwasser 
+D1.1.15.2	D 1.1.15.2	luchtwassystemen anders dan biologisch of chemisch; gecombineerd luchtwassysteem 70% emissiereductie met waterwasser, chemische wasser en biofilter 
+D1.1.15.3	D 1.1.15.3	luchtwassystemen anders dan biologisch of chemisch; gecombineerd luchtwassysteem 85% emissiereductie met waterwasser, chemische wasser en biofilter 
+D1.1.15.4	D 1.1.15.4	luchtwassystemen anders dan biologisch of chemisch; gecombineerd luchtwassysteem 85% emissiereductie met watergordijn en biologische wasser 
+D1.1.15.5	D 1.1.15.5	luchtwassystemen anders dan biologisch of chemisch; gecombineerd luchtwassysteem 85% emissiereductie met waterwasser, biologische wasser en geurverwijderingssectie 
+D1.1.15.6	D 1.1.15.6	luchtwassystemen anders dan biologisch of chemisch; gecombineerd luchtwassysteem 90% emissiereductie met een biologische en een chemische wasser en een biofilter 
+D1.1.16	D 1.1.16	biologisch luchtwassysteem 85% emissiereductie
+D1.1.17	D 1.1.17	chemisch luchtwassysteem 90% emissiereductie
+D1.1.19	D 1.1.19	Biofilter 70% ammoniakemissiereductie
+D1.1.9	D 1.1.9	biologisch luchtwassysteem 70% emissiereductie
+D1.2.10	D 1.2.10	biologisch luchtwassysteem 70% emissiereductie
+D1.2.11	D 1.2.11	chemisch luchtwassysteem 70% emissiereductie
+D1.2.15	D 1.2.15	chemisch luchtwassysteem 95% emissiereductie
+D1.2.17.1	D 1.2.17.1	gecombineerd luchtwassysteem 85% emissiereductie met chemische wasser (lamellenfilter) en waterwasser
+D1.2.17.2	D 1.2.17.2	gecombineerd luchtwassysteem 70% emissiereductie met waterwasser, chemische wasser en biofilter
+D1.2.17.3	D 1.2.17.3	gecombineerd luchtwassysteem 85% emissiereductie met waterwasser, chemische wasser en biofilter
+D1.2.17.4	D 1.2.17.4	gecombineerd luchtwassysteem 85% emissiereductie met watergordijn en biologische wasser
+D1.2.17.5	D 1.2.17.5	gecombineerd luchtwassysteem 85% emissiereductie met waterwasser, biologische wasser en geurverwijderingssectie
+D1.2.17.6	D 1.2.17.6	gecombineerd luchtwassysteem 90% emissiereductie met een biologische en een chemische wasser en een biofilter
+D1.2.18	D 1.2.18	biologisch luchtwassysteem 85% emissiereductie
+D1.2.19	D 1.2.19	chemisch luchtwassysteem 90% emissiereductie
+D1.2.21	D 1.2.21	Biofilter 70% ammoniakemissiereductie
+D1.3.11	D 1.3.11	chemisch luchtwassysteem 95% emissiereductie bij individuele en groepshuisvesting
+D1.3.12.1	D 1.3.12.1	luchtwassystemen anders dan biologisch of chemisch; gecombineerd luchtwassysteem 85% emissiereductie met chemische wasser (lamellenfilter) en waterwasser 
+D1.3.12.2	D 1.3.12.2	luchtwassystemen anders dan biologisch of chemisch; gecombineerd luchtwassysteem 70% emissiereductie met waterwasser, chemische wasser en biofilter 
+D1.3.12.3	D 1.3.12.3	luchtwassystemen anders dan biologisch of chemisch; gecombineerd luchtwassysteem 85% emissiereductie met waterwasser, chemische wasser en biofilter 
+D1.3.12.4	D 1.3.12.4	luchtwassystemen anders dan biologisch of chemisch; gecombineerd luchtwassysteem 85% emissiereductie met watergordijn en biologische wasser 
+D1.3.12.5	D 1.3.12.5	luchtwassystemen anders dan biologisch of chemisch; gecombineerd luchtwassysteem 85% emissiereductie met waterwasser, biologische wasser en geurverwijderingssectie 
+D1.3.12.6	D 1.3.12.6	luchtwassystemen anders dan biologisch of chemisch; gecombineerd luchtwassysteem 90% emissiereductie met een biologische en een chemische wasser en een biofilter 
+D1.3.13	D 1.3.13	biologisch luchtwassysteem 85% emissiereductie
+D1.3.14	D 1.3.14	chemisch luchtwassysteem 90% emissiereductie
+D1.3.17	D 1.3.17	Biofilter 70% ammoniakemissiereductie
+D1.3.6	D 1.3.6	biologisch luchtwassysteem 70% emissiereductie (bij individuele en groepshuisvesting)
+D1.3.7	D 1.3.7	chemisch luchtwassysteem 70% emissiereductie (bij individuele en groepshuisvesting)
+D2.1	D 2.1	biologisch luchtwassysteem 70% emissiereductie
+D2.2	D 2.2	chemisch luchtwassysteem 70% emissiereductie
+D2.3	D 2.3	chemisch luchtwassysteem 95% emissiereductie
+D2.4.1	D 2.4.1	luchtwassystemen anders dan biologisch of chemisch; gecombineerd luchtwassysteem 85% emissiereductie met chemische wasser (lamellenfilter) en waterwasser 
+D2.4.2	D 2.4.2	luchtwassystemen anders dan biologisch of chemisch; gecombineerd luchtwassysteem 70% emissiereductie met waterwasser, chemische wasser en biofilter 
+D2.4.3	D 2.4.3	luchtwassystemen anders dan biologisch of chemisch; gecombineerd luchtwassysteem 85% emissiereductie met waterwasser, chemische wasser en biofilter 
+D2.4.4	D 2.4.4	luchtwassystemen anders dan biologisch of chemisch; gecombineerd luchtwassysteem 85% emissiereductie met watergordijn en biologische wasser 
+D2.4.5	D 2.4.5	luchtwassystemen anders dan biologisch of chemisch; gecombineerd luchtwassysteem 85% emissiereductie met waterwasser, biologische wasser en geurverwijderingssectie 
+D2.4.6	D 2.4.6	luchtwassystemen anders dan biologisch of chemisch; gecombineerd luchtwassysteem 90% emissiereductie met een biologische en een chemische wasser en een biofilter 
+D2.5	D 2.5	biologisch luchtwassysteem 85% emissiereductie
+D2.6	D 2.6	chemisch luchtwassysteem 90% emissiereductie
+D2.7	D 2.7	Biofilter 70% ammoniakemissiereductie
+D3.2.14	D 3.2.14	gedeeltelijk roostervloer; chemisch luchtwassysteem 95% emissiereductie 
+D3.2.15.1	D 3.2.15.1	gedeeltelijk roostervloer; luchtwassystemen anders dan biologisch of chemisch; gecombineerd luchtwassysteem 85% emissiereductie met chemische wasser (lamellenfilter) en waterwasser 
+D3.2.15.2	D 3.2.15.2	gedeeltelijk roostervloer; luchtwassystemen anders dan biologisch of chemisch; gecombineerd luchtwassysteem 70% emissiereductie met waterwasser, chemische wasser en biofilter 
+D3.2.15.3	D 3.2.15.3	gedeeltelijk roostervloer; luchtwassystemen anders dan biologisch of chemisch; gecombineerd luchtwassysteem 85% emissiereductie met waterwasser, chemische wasser en biofilter 
+D3.2.15.4	D 3.2.15.4	gedeeltelijk roostervloer; luchtwassystemen anders dan biologisch of chemisch; gecombineerd luchtwassysteem 85% emissiereductie met watergordijn en biologische wasser 
+D3.2.15.5	D 3.2.15.5	gedeeltelijk roostervloer; luchtwassystemen anders dan biologisch of chemisch; gecombineerd luchtwassysteem 85% emissiereductie met waterwasser, biologische wasser en geurverwijderingssectie 
+D3.2.15.6	D 3.2.15.6	gedeeltelijk roostervloer; luchtwassystemen anders dan biologisch of chemisch; gecombineerd luchtwassysteem 90% emissiereductie met een biologische en een chemische wasser en een biofilter 
+D3.2.17	D 3.2.17	gedeeltelijk roostervloer; biologisch luchtwassysteem 85% emissiereductie 
+D3.2.18	D 3.2.18	gedeeltelijk roostervloer; chemisch luchtwassysteem 90% emissiereductie 
+D3.2.20	D 3.2.20	Biofilter 70% ammoniakemissiereductie
+D3.2.8	D 3.2.8	gedeeltelijk roostervloer; biologisch luchtwassysteem 70% emissiereductie 
+D3.2.9	D 3.2.9	gedeeltelijk roostervloer; chemisch luchtwassysteem 70% emissiereductie 
+D4.1	D 4.1	drijvende ballen in de mest 29% emissiereductie
+D4.2.1	D 4.2.1	schuine wand mestkanaal bij biggenopfok (D 1.1), 40% emissiereductie
+D4.2.2	D 4.2.2	schuine wand mestkanaal bij kraamzeugen (D 1.2) en vleesvarkens (D 3), 15% emissiereductie
+D4.2.3	D 4.2.3	schuine wand mestkanaal bij guste en dragende zeugen (D 1.3), 20% emissiereductie
+E1.10	E 1.10	biologisch luchtwassysteem 70% emissiereductie
+E1.12	E 1.12	biofilter 70% emissiereductie
+E1.13	E 1.13	chemisch luchtwassysteem 70% emissiereductie
+E1.15	E 1.15	chemisch luchtwassysteem 70% emissiereductie
+E1.5.3	E 1.5.3	mestbandbatterij met geforceerde mestdroging; batterijhuisvesting volgens categorie E 1.5.1 met chemisch luchtwassysteem met 90% emissiereductie 
+E1.5.4	E 1.5.4	mestbandbatterij met geforceerde mestdroging; batterijhuisvesting volgens categorie E 1.5.2 met chemisch luchtwassysteem met 90% emissiereductie 
+E1.9	E 1.9	chemisch luchtwassysteem 90% emissiereductie
+E2.10	E 2.10	chemisch luchtwassysteem 90% emissiereductie
+E2.13	E 2.13	biologisch luchtwassysteem 70% emissiereductie
+E2.14	E 2.14	biofilter 70% emissiereductie
+E2.15	E 2.15	chemisch luchtwassysteem 70% emissiereductie
+E2.16	E 2.16	chemisch luchtwassysteem 70% emissiereductie
+E2.5.3	E 2.5.3	mestbandbatterij met geforceerde mestdroging; batterijhuisvesting volgens categorie E 2.5.1 met chemisch luchtwassysteem met 90% emissiereductie 
+E2.5.4	E 2.5.4	mestbandbatterij met geforceerde mestdroging; batterijhuisvesting volgens categorie E 2.5.2 met chemisch luchtwassysteem met 90% emissiereductie 
+E3.1	E 3.1	chemisch luchtwassysteem 90% emissiereductie
+E3.10	E 3.10	chemisch luchtwassysteem 70% emissiereductie
+E3.2	E 3.2	biologisch luchtwassysteem 70% emissiereductie
+E3.5	E 3.5	biofilter 70% emissiereductie
+E3.6	E 3.6	chemisch luchtwassysteem 70% emissiereductie
+E4.10	E 4.10	chemisch luchtwassysteem 70% emissiereductie
+E4.11	E 4.11	chemisch luchtwassysteem 70% emissiereductie
+E4.6	E 4.6	chemisch luchtwassysteem 90% emissiereductie
+E4.7	E 4.7	biologisch luchtwassysteem 70% emissiereductie
+E4.9	E 4.9	biofilter 70% emissiereductie
+E5.12	E 5.12	biofilter 70% emissiereductie
+E5.13	E 5.13	chemisch luchtwassysteem 70% emissiereductie
+E5.16	E 5.16	chemisch luchtwassysteem 70% emissiereductie
+E5.4	E 5.4	chemisch luchtwassysteem 90% emissiereductie
+E5.7	E 5.7	biologisch luchtwassysteem 70% emissiereductie
+E6.10.a	E 6.10.a	biothermisch drogen van pluimveemest met chemisch luchtwassysteem 90% emissiereductie; geldt voor de huisvestingssystemen onder E 1.5, E 1.8, E 5.8, E 5.9.1.1.3 en E 5.9.1.2.3
+E6.10.b	E 6.10.b	biothermisch drogen van pluimveemest met chemisch luchtwassysteem 90% emissiereductie; geldt voor de huisvestingssystemen onder E 2.5, E 2.11, E 2.12, E 4.1 t/m E 4.3 en E 4.8
+E6.5.a	E 6.5.a	mestopslagloods met biologisch luchtwassysteem 70% emissiereductie; geldt voor de huisvestingssystemen onder E 1.5, E 1.8, E 5.8, E 5.9.1.1.3 en E 5.9.1.2.3
+E6.5.b	E 6.5.b	mestopslagloods met biologisch luchtwassysteem 70% emissiereductie; geldt voor huisvestingssystemen onder E 2.5, E 2.11, E 2.12, E 4.1 t/m E 4.3 en E 4.8
+E6.6.a	E 6.6.a	mestopslagloods met chemisch luchtwassysteem 70% emissiereductie; geldt voor de huisvestingssystemen onder E 1.5, E 1.8, E 5.8, E 5.9.1.1.3 en E 5.9.1.2.3
+E6.6.b	E 6.6.b	mestopslagloods met chemisch luchtwassysteem 70% emissiereductie; geldt voor huisvestingssystemen onder E 2.5, E 2.11, E 2.12, E 4.1 t/m E 4.3 en E 4.8
+E6.7.a	E 6.7.a	mestopslagloods met chemisch luchtwassysteem 90% emissiereductie; geldt voor de huisvestingssystemen onder E 1.5, E 1.8, E 5.8, E 5.9.1.1.3 en E 5.9.1.2.3
+E6.7.b	E 6.7.b	mestopslagloods met chemisch luchtwassysteem 90% emissiereductie; geldt voor huisvestingssystemen onder E 2.5, E 2.11, E 2.12, E 4.1 t/m E 4.3 en E 4.8
+E6.9.a	E 6.9.a	biothermisch drogen van pluimveemest met chemisch luchtwassysteem 70% emissiereductie; geldt voor geldt voor de huisvestingssystemen onder E 1.5, E 1.8, E 5.8, E 5.9.1.1.3 en E 5.9.1.2.3
+E6.9.b	E 6.9.b	biothermisch drogen van pluimveemest met chemisch luchtwassysteem 70% emissiereductie; geldt voor geldt voor de huisvestingssystemen onder E 2.5, E 2.11, E 2.12, E 4.1 t/m E 4.3 en E 4.8
+E7.1	E 7.1	oliefilmsysteem met drukleidingen; 54% emissiereductie fijn stof
+E7.10	E 7.10	strooiselschuif bij volièrehuisvesting; 20% emissiereductie ammoniak en 20% emissiereductie fijnstof
+E7.11	E 7.11	warmtewisselaar; 37% emissiereductie fijnstof
+E7.12	E 7.12	warmtewisselaar; 50% emissiereductie fijnstof
+E7.13	E 7.13	Luchtconditioneringsunit; 80% emissiereductie fijnstof
+E7.14	E 7.14	Stoffilters met 99% verwijdering fijnstof; 50% emissiereductie fijnstof
+E7.15	E 7.15	Ionisatie d.m.v. koolstofborsteltjes; 31% emissiereductie fijnstof
+E7.16	E 7.16	Negatieve ionisatie d.m.v. coronadraden met 40 emitters per meter (prikkeldraad); 52% emissiereductie fijnstof
+E7.17	E 7.17	Positieve ionisatie d.m.v. ionisatie-units met ingebouwde coronadraden en collectoroppervlak; 16% emissiereductie fijnstof
+E7.18	E 7.18	warmtewisselaar; 1 - 95% emissiereductie fijnstof
+E7.19	E 7.19	stoffilters met 99% verwijdering fijnstof; 1 - 95% emissiereductie fijnstof
+E7.2	E 7.2	ionisatiesysteem met negatieve coronadraden; 49% emissiereductie fijn stof
+E7.3	E 7.3	waterluchtwassysteem; 33% emissiereductie fijn stof
+E7.4	E 7.4	droogfilterwand; 40% emissiereductie fijn stof
+E7.5	E 7.5	ionisatiefilter; 57% emissiereductie fijn stof
+E7.6	E 7.6	warmtewisselaar; 31% emissiereductie fijnstof
+E7.7	E 7.7	warmtewisselaar; 13% emissiereductie fijnstof
+E7.8	E 7.8	aanbrengen oliefilm in stallen met volières door middel van leidingen met sproeikoppen; 15% emissiereductie fijn stof
+E7.9	E 7.9	aanbrengen oliefilm in stallen met gedeeltelijk rooster door middel van een olierobot; 30% emissiereductie fijn stof
+F1.1	F 1.1	chemisch luchtwassysteem 90% emissiereductie
+F1.2	F 1.2	biologisch luchtwassysteem 70% emissiereductie
+F1.4	F 1.4	biofilter 70% emissiereductie
+F1.5	F 1.5	chemisch luchtwassysteem 70% emissiereductie
+F1.9	F 1.9	chemisch luchtwassysteem 70% emissiereductie
+F2.1	F 2.1	chemisch luchtwassysteem 90% emissiereductie
+F2.2	F 2.2	biologisch luchtwassysteem 70% emissiereductie
+F2.4	F 2.4	biofilter 70% emissiereductie
+F2.5	F 2.5	chemisch luchtwassysteem 70% emissiereductie
+F2.8	F 2.8	chemisch luchtwassysteem 70% emissiereductie
+F3.1	F 3.1	chemisch luchtwassysteem 90% emissiereductie
+F3.2	F 3.2	biologisch luchtwassysteem 70% emissiereductie
+F3.3	F 3.3	biofilter 70% emissiereductie
+F3.4	F 3.4	chemisch luchtwassysteem 70% emissiereductie
+F3.5	F 3.5	chemisch luchtwassysteem 70% emissiereductie
+F4.10	F 4.10	chemisch luchtwassysteem 70% emissiereductie
+F4.2	F 4.2	chemisch luchtwassysteem 90% emissiereductie
+F4.4	F 4.4	biologisch luchtwassysteem 70% emissiereductie
+F4.6	F 4.6	biofilter 70% emissiereductie
+F4.7	F 4.7	chemisch luchtwassysteem 70% emissiereductie
+F6.1	F 6.1	oliefilmsysteem met drukleidingen; 54% emissiereductie fijn stof
+F6.10	F 6.10	Stoffilters met 99% verwijdering fijnstof; 50% emissiereductie fijnstof
+F6.11	F 6.11	Ionisatie d.m.v. koolstofborsteltjes; 31% emissiereductie fijnstof
+F6.12	F 6.12	warmtewisselaar; 1 - 95% emissiereductie fijnstof
+F6.13	F 6.13	stoffilters met 99% verwijdering fijnstof; 1 - 95% emissiereductie fijnstof
+F6.2	F 6.2	waterluchtwassysteem; 33% emissiereductie fijn stof
+F6.3	F 6.3	droogfilterwand; 40% emissiereductie fijn stof
+F6.4	F 6.4	ionisatiefilter; 57% emissiereductie fijn stof
+F6.5	F 6.5	warmtewisselaar; 31% emissiereductie fijnstof
+F6.6	F 6.6	warmtewisselaar; 13% emissiereductie fijnstof
+F6.7	F 6.7	warmtewisselaar; 37% emissiereductie fijnstof
+F6.8	F 6.8	warmtewisselaar; 50% emissiereductie fijnstof
+F6.9	F 6.9	Luchtconditioneringsunit; 80% emissiereductie fijnstof
+G1.1	G 1.1	chemisch luchtwassysteem 90% emissiereductie
+G1.2	G 1.2	biologisch luchtwassysteem 70% emissiereductie
+G1.3	G 1.3	chemisch luchtwassysteem 70% emissiereductie
+G1.4	G 1.4	biofilter 70% emissiereductie
+G1.5	G 1.5	chemisch luchtwassysteem 70% emissiereductie
+G2.1.1	G 2.1.1	binnen mesten; chemisch luchtwassysteem 90% emissiereductie 
+G2.1.2	G 2.1.2	binnen mesten; biologisch luchtwassysteem 70% emissiereductie 
+G2.1.3	G 2.1.3	binnen mesten; chemisch luchtwassysteem 70% emissiereductie 
+G2.1.4	G 2.1.4	binnen mesten; biofilter 70% emissiereductie 
+G2.1.5	G 2.1.5	chemisch luchtwassysteem 70% emissiereductie
+G4.1	G 4.1	waterluchtwassysteem; 33% emissiereductie fijn stof
+G4.10	G 4.10	warmtewisselaar; 1 - 95% emissiereductie fijnstof (PM10)
+G4.11	G 4.11	stoffilters met 99% verwijdering fijnstof; 1 - 95% emissiereductie fijnstof
+G4.2	G 4.2	droogfilterwand; 40% emissiereductie fijn stof
+G4.3	G 4.3	ionisatiefilter; 57% emissiereductie fijn stof
+G4.4	G 4.4	warmtewisselaar; 31% emissiereductie fijnstof
+G4.5	G 4.5	warmtewisselaar; 13% emissiereductie fijnstof
+G4.6	G 4.6	warmtewisselaar; 37% emissiereductie fijnstof
+G4.7	G 4.7	warmtewisselaar; 50% emissiereductie fijnstof
+G4.8	G 4.8	Luchtconditioneringsunit; 80% emissiereductie fijnstof
+G4.9	G 4.9	Stoffilters met 99% verwijdering fijnstof; 50% emissiereductie fijnstof
+I1.2	I 1.2	mechanisch geventileerde stal met een biologisch luchtwassysteem 70% emissiereductie
+I1.3	I 1.3	mechanisch geventileerde stal met een chemisch luchtwassysteem 70% emissiereductie
+I1.4	I 1.4	mechanisch geventileerde stal met een chemisch luchtwassysteem 90% emissiereductie
+I2.2	I 2.2	mechanisch geventileerde stal met een biologisch luchtwassysteem 70% emissiereductie
+I2.3	I 2.3	mechanisch geventileerde stal met een chemisch luchtwassysteem 70% emissiereductie
+I2.4	I 2.4	mechanisch geventileerde stal met een chemisch luchtwassysteem 90% emissiereductie
