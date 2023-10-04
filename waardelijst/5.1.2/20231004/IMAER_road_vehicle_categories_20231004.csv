@@ -1,0 +1,5 @@
+code	name	description
+AUTO_BUS	Busverkeer	Busverkeer
+HEAVY_FREIGHT	Zwaar vrachtverkeer	Zwaar vrachtverkeer
+LIGHT_TRAFFIC	Licht verkeer	Licht verkeer
+NORMAL_FREIGHT	Middelzwaar vrachtverk.	Middelzwaar vrachtverkeer
