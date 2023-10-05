@@ -1,0 +1,409 @@
+code	name	description
+A1.1	A 1.1	grupstal met drijfmest, emitterend mestoppervlak van grup en kelder max. 1,2 m2 per koe
+A1.10	A 1.10	ligboxenstal met roostervloer voorzien van een bolle rubber toplaag, met mestschuif
+A1.100	A 1.100	overige huisvestingssystemen
+A1.11	A 1.11	ligboxenstal met geprofileerde vlakke vloer met hellende sleuven, regelmatige mestafstorten en met een mestschuif
+A1.12	A 1.12	ligboxenstal met geprofileerde vlakke vloer met hellende sleuven, regelmatige mestafstorten en mestschuif
+A1.13	A 1.13	ligboxenstal met roostervloer voorzien van cassettes in de roosterspleten en mestschuif
+A1.14	A 1.14	ligboxenstal met geprofileerde vlakke vloer met hellende sleuven, regelmatige mestafstorten voorzien van afdichtflappen, met mestschuif
+A1.15	A 1.15	ligboxenstal met geprofileerde vlakke vloer met hellende sleuven, regelmatige mestafstorten voorzien van afdichtkleppen en met mestschuif
+A1.16	A 1.16	ligboxenstal met V-vormige vloer van gietasfalt in combinatie met een gierafvoerbuis en met mestschuif
+A1.17	A 1.17	mechanisch geventileerde stal met een chemisch luchtwassysteem
+A1.18	A 1.18	ligboxenstal met V-vormige vloer van geprofileerde vloerelementen in combinatie met een gierafvoerbuis en met mestschuif
+A1.19	A 1.19	ligboxenstal met roostervloer met hellende groeven of hellend gelegd, voorzien van afdichtkleppen in de roosterspleten en met mestschuif
+A1.2	A 1.2	loopstal met hellende vloer en giergoot of met roostervloer; beide met spoelsysteem
+A1.20	A 1.20	ligboxenstal met vloer voorzien van perforaties en hellende profilering en mestschuif
+A1.21	A 1.21	ligboxenstal met vlakke vloerplaten met tegelprofiel, hellende sleuven en regelmatige mestafstorten voorzien van afdichtflappen of -kleppen en mestschuif
+A1.22	A 1.22	ligboxenstal met sleufvloer en mestschuif en in de doorsteken, wachtruimte en doorlopen een roostervloer met bolle rubber toplaag voorzien van afdichtflappen in de roosterspleten
+A1.23	A 1.23	ligboxenstal met geprofileerde vloerplaten met sterk hellende langssleuven met urineafvoergat en hellende dwarsgroeven, aaneengesloten gelegd of gescheiden door mestafstorten voorzien van afdichtkleppen, met mestschuif
+A1.24	A 1.24	ligboxenstal met vloer met sterk hellende langssleuven, de vloerplaten aaneengesloten gelegd of gescheiden door mestafstorten voorzien van afdichtkleppen, met mestschuif
+A1.25	A 1.25	ligboxenstal met vlakke vloer, voorzien van geprofileerde rubber matten met een hellend profiel naar regelmatige mestafstorten voorzien van afdichtflappen, met mestschuif
+A1.26	A 1.26	ligboxenstal met hellende V-vormige vloer, voorzien van geprofileerde rubber matten, met centrale giergoot en mestschuif
+A1.27	A 1.27	ligboxenstal met roostervloer met hellende groeven of hellend gelegd, voorzien van afdichtkleppen in de roosterspleten, met mestschuif en vernevelsysteem
+A1.28	A 1.28	ligboxenstal met roostervloer, voorzien van een rubber toplaag en bevestigingsnokken met een geprofileerd oppervlak, kunststof kleppen in de roosterspleten en met mestschuif
+A1.29	A 1.29	ligboxenstal met geprofileerde hellende vloer met holtes voor gieropvang en -afvoer aan de zijkant en met mestschuif
+A1.3	A 1.3	loopstal met hellende vloer en giergoot; max. 3 m2 mestbesmeurd oppervlak per koe
+A1.30	A 1.30	ligboxenstal met roostervloer voorzien van bolle rubberen matten, met mestschuif
+A1.31	A 1.31	ligboxenstal met sleufvloer met dichte hellende vloer met geprofileerde rubber tegels, met mestschuif
+A1.32	A 1.32	ligboxenstal met vlakke betonnen vloerplaten met sleuven, voorzien van profiel met 1% hellende groeven richting een centrale giergoot met giergaten en mestverwijdering
+A1.33	A 1.33	ligboxenstal met vlakke vloer, voorzien van rubberen sleufvloer met 3% hellende langssleuven en geprofileerd rubber (hellende V-vorm) met groeven en nopjes tussen de langssleuven, met mestschuif
+A1.34	A 1.34	ligboxenstal met dichte gegroefde vloer met rubber matten met een hellend profiel, aangebrachte composietnokken met vingermestschuif
+A1.35	A 1.35	ligboxenstal met vlakke vloer voorzien van rubberen sleufvloer, met vlakke langssleuven en geprofileerd rubber (hellende V-vorm) met groeven en nopjes tussen de langssleuven, met vingermestschuif
+A1.36	A 1.36	ligboxenstal met urineopvangstation
+A1.37	A 1.37	Ligboxenstal met een indrukbare drainerende loopvloer voorzien van een mestschuif, de urine en mest worden direct gescheiden en apart opgeslagen.
+A1.38	A 1.38	Ligboxenstal voorzien van geprofileerde rubberen oplegmatten met ruitprofiel onder 2% afschot naar een centrale giergoot en frequente mestverwijdering met vaste mestschuif
+A1.39	A 1.39	Natuurlijk geventileerde ligboxenstal met een roostervloer voorzien van inlays met urineafvoergaatjes in de roosterspleten, frequent bevochtigen en schoonzuigen van de vloer door een mestverzamelrobot en een mechanische kelderluchtafzuiging met een chemisch luchtwassysteem (95% emissiereductie)
+A1.4	A 1.4	loopstal met hellende vloer en spoelsysteem; max. 3,75 m2 mestbesmeurd oppervlak per koe
+A1.40	A 1.40	Ligboxenstal met V-vormige vloer van geprofileerde vloerelementen in een helling van 3,5% in combinatie met een gierafvoerbuis en mestschuif
+A1.5	A 1.5	ligboxenstal met sleufvloer en mestschuif
+A1.6	A 1.6	ligboxenstal met dichte hellende vloer, met profilering, met snelle gierafvoer met mestschuif
+A1.7	A 1.7	ligboxenstal met dichte hellende vloer, met rubbertoplaag, met snelle gierafvoer met mestschuif
+A1.8	A 1.8	ligboxenstal met sleufvloer met noppen en mestschuif
+A1.9	A 1.9	ligboxenstal met roostervloer voorzien van een bolle rubber toplaag en afdichtflappen in de roosterspleten, met mestschuif
+A2.100	A 2.100	overige huisvestingssystemen
+A3.100	A 3.100	overige huisvestingssystemen
+A4.1	A 4.1	mechanisch geventileerde stal met een chemisch luchtwassysteem met 90% emissiereductie
+A4.100	A 4.100	overige huisvestingssystemen
+A4.2	A 4.2	mechanisch geventileerde stal met een biologisch luchtwassysteem met 70% emissiereductie
+A4.3	A 4.3	mechanisch geventileerde stal met een chemisch luchtwassysteem met 70% emissiereductie
+A4.4	A 4.4	mechanisch geventileerde stal met een chemisch luchtwassysteem met 95% emissiereductie
+A4.5.1	A 4.5.1	mechanisch geventileerde stal met een luchtwassysteem anders dan biologisch of chemisch; mechanisch geventileerde stal met een gecombineerd luchtwassysteem 85% emissiereductie met chemische wasser (lamellenfilter) en waterwasser
+A4.5.2	A 4.5.2	mechanisch geventileerde stal met een luchtwassysteem anders dan biologisch of chemisch; mechanisch geventileerde stal met een gecombineerd luchtwassysteem 70% emissiereductie met waterwasser, chemische wasser en biofilter
+A4.5.3	A 4.5.3	mechanisch geventileerde stal met een luchtwassysteem anders dan biologisch of chemisch; mechanisch geventileerde stal met een gecombineerd luchtwassysteem 85% emissiereductie met waterwasser, chemische wasser en biofilter
+A4.5.4	A 4.5.4	mechanisch geventileerde stal met een luchtwassysteem anders dan biologisch of chemisch; mechanisch geventileerde stal met een gecombineerd luchtwassysteem 85% emissiereductie met watergordijn en biologische wasser
+A4.5.5	A 4.5.5	mechanisch geventileerde stal met een luchtwassysteem anders dan biologisch of chemisch; mechanisch geventileerde stal met een gecombineerd luchtwassysteem 85% emissiereductie met waterwasser, biologische wasser en geurverwijderingssectie
+A4.5.6	A 4.5.6	mechanisch geventileerde stal met een luchtwassysteem anders dan biologisch of chemisch; mechanisch geventileerde stal met een gecombineerd luchtwassysteem 90% emissiereductie met een biologische en een chemische wasser en een biofilter
+A4.6	A 4.6	mechanisch geventileerde stal met een biologisch luchtwassysteem 85% emissiereductie
+A4.7	A 4.7	stal met hellende roostervloer in combinatie met hellende schijnvloer onder de roostervloer
+A4.8	A 4.8	stal met roostervloer voorzien van een bolle rubber toplaag en afdichtflappen in de roosterspleten
+A6.100	A 6.100	overige huisvestingssystemen
+A7.100	A 7.100	overige huisvestingssystemen
+B1.100	B 1.100	overige huisvestingssystemen
+C1.1.1	C 1.1.1	mechanisch geventileerde gesloten stal (BWL 2017.07) met een biologisch luchtwassysteem met 70% emissiereductie
+C1.1.2	C 1.1.2	mechanisch geventileerde gesloten stal (BWL 2017.07) met een chemisch luchtwassysteem met 70% emissiereductie
+C1.1.3	C 1.1.3	mechanisch geventileerde gesloten stal (BWL 2017.07) met een chemisch luchtwassysteem met 95% emissiereductie
+C1.1.4.1	C 1.1.4.1	mechanisch geventileerde gesloten stal (BWL 2017.07) met een gecombineerd luchtwassysteem met 85% emissiereductie (chemische wasser (lamellenfilter) en waterwasser)
+C1.1.4.2	C 1.1.4.2	mechanisch geventileerde gesloten stal (BWL 2017.07) met een gecombineerd luchtwassysteem met 70% emissiereductie (waterwasser, chemische wasser en biofilter)
+C1.1.4.3	C 1.1.4.3	mechanisch geventileerde gesloten stal (BWL 2017.07) met een gecombineerd luchtwassysteem met 85% emissiereductie (waterwasser, chemische wasser en biofilter)
+C1.1.4.4	C 1.1.4.4	mechanisch geventileerde gesloten stal (BWL 2017.07) met een gecombineerd luchtwassysteem met 85% emissiereductie (watergordijn en biologische wasser)
+C1.1.4.5	C 1.1.4.5	mechanisch geventileerde gesloten stal (BWL 2017.07) met een gecombineerd luchtwassysteem met 85% emissiereductie (waterwasser, biologische wasser en geurverwijderingssectie)
+C1.1.4.6	C 1.1.4.6	mechanisch geventileerde gesloten stal (BWL 2017.07) met een gecombineerd luchtwassysteem met 90% emissiereductie (biologische en chemische wasser en  biofilter)
+C1.1.5	C 1.1.5	mechanisch geventileerde gesloten stal (BWL 2017.07) met een biologisch luchtwassysteem met 85% emissiereductie
+C1.1.6	C 1.1.6	mechanisch geventileerde gesloten stal (BWL 2017.07) met een chemisch luchtwassysteem met 90% emissiereductie
+C1.100	C 1.100	overige huisvestingssystemen
+C2.1.1	C 2.1.1	mechanisch geventileerde gesloten stal (BWL 2017.07) met een biologisch luchtwassysteem met 70% emissiereductie
+C2.1.2	C 2.1.2	mechanisch geventileerde gesloten stal (BWL 2017.07) met een chemisch luchtwassysteem met 70% emissiereductie
+C2.1.3	C 2.1.3	mechanisch geventileerde gesloten stal (BWL 2017.07) met een chemisch luchtwassysteem met 95% emissiereductie
+C2.1.4.1	C 2.1.4.1	mechanisch geventileerde gesloten stal (BWL 2017.07) met een gecombineerd luchtwassysteem met 85% emissiereductie (chemische wasser (lamellenfilter) en waterwasser)
+C2.1.4.2	C 2.1.4.2	mechanisch geventileerde gesloten stal (BWL 2017.07) met een gecombineerd luchtwassysteem met 70% emissiereductie (waterwasser, chemische wasser en biofilter)
+C2.1.4.3	C 2.1.4.3	mechanisch geventileerde gesloten stal (BWL 2017.07) met een gecombineerd luchtwassysteem met 85% emissiereductie (waterwasser, chemische wasser en biofilter)
+C2.1.4.4	C 2.1.4.4	mechanisch geventileerde gesloten stal (BWL 2017.07) met een gecombineerd luchtwassysteem met 85% emissiereductie (watergordijn en biologische wasser)
+C2.1.4.5	C 2.1.4.5	mechanisch geventileerde gesloten stal (BWL 2017.07) met een gecombineerd luchtwassysteem met 85% emissiereductie (waterwasser, biologische wasser en geurverwijderingssectie)
+C2.1.4.6	C 2.1.4.6	mechanisch geventileerde gesloten stal (BWL 2017.07) met een gecombineerd luchtwassysteem met 90% emissiereductie (biologische en chemische wasser en  biofilter)
+C2.1.5	C 2.1.5	mechanisch geventileerde gesloten stal (BWL 2017.07) met een biologisch luchtwassysteem met 85% emissiereductie
+C2.1.6	C 2.1.6	mechanisch geventileerde gesloten stal (BWL 2017.07) met een chemisch luchtwassysteem met 90% emissiereductie
+C2.100	C 2.100	overige huisvestingssystemen
+C3.1.1	C 3.1.1	mechanisch geventileerde gesloten stal (BWL 2017.07) met een biologisch luchtwassysteem met 70% emissiereductie
+C3.1.2	C 3.1.2	mechanisch geventileerde gesloten stal (BWL 2017.07) met een chemisch luchtwassysteem met 70% emissiereductie
+C3.1.3	C 3.1.3	mechanisch geventileerde gesloten stal (BWL 2017.07) met een chemisch luchtwassysteem met 95% emissiereductie
+C3.1.4.1	C 3.1.4.1	mechanisch geventileerde gesloten stal (BWL 2017.07) met een gecombineerd luchtwassysteem met 85% emissiereductie (chemische wasser (lamellenfilter) en waterwasser)
+C3.1.4.2	C 3.1.4.2	mechanisch geventileerde gesloten stal (BWL 2017.07) met een gecombineerd luchtwassysteem met 70% emissiereductie (waterwasser, chemische wasser en biofilter)
+C3.1.4.3	C 3.1.4.3	mechanisch geventileerde gesloten stal (BWL 2017.07) met een gecombineerd luchtwassysteem met 85% emissiereductie (waterwasser, chemische wasser en biofilter)
+C3.1.4.4	C 3.1.4.4	mechanisch geventileerde gesloten stal (BWL 2017.07) met een gecombineerd luchtwassysteem met 85% emissiereductie (watergordijn en biologische wasser)
+C3.1.4.5	C 3.1.4.5	mechanisch geventileerde gesloten stal (BWL 2017.07) met een gecombineerd luchtwassysteem met 85% emissiereductie (waterwasser, biologische wasser en geurverwijderingssectie)
+C3.1.4.6	C 3.1.4.6	mechanisch geventileerde gesloten stal (BWL 2017.07) met een gecombineerd luchtwassysteem met 90% emissiereductie (biologische en chemische wasser en  biofilter)
+C3.1.5	C 3.1.5	mechanisch geventileerde gesloten stal (BWL 2017.07) met een biologisch luchtwassysteem met 85% emissiereductie
+C3.1.6	C 3.1.6	mechanisch geventileerde gesloten stal (BWL 2017.07) met een chemisch luchtwassysteem met 90% emissiereductie
+C3.100	C 3.100	overige huisvestingssystemen
+D1.1.1	D 1.1.1	vlakke gecoate keldervloer met tandheugelschuifsysteem
+D1.1.10	D 1.1.10	chemisch luchtwassysteem 70% emissiereductie
+D1.1.100	D 1.1.100	overige huisvestingssystemen
+D1.1.11	D 1.1.11	koeldeksysteem (150% koeloppervlak)
+D1.1.12.1	D 1.1.12.1	opfokhok met schuine putwand; emitterend mestoppervlak maximaal 0,07 m2 per big, ongeacht groepsgrootte 
+D1.1.12.2	D 1.1.12.2	opfokhok met schuine putwand; emitterend mestoppervlak groter dan 0,07 m2 per big, echter kleiner dan 0,10 m2, en in kleine groepen, tot 30 biggen, gehuisvest 
+D1.1.12.3	D 1.1.12.3	opfokhok met schuine putwand; emitterend mestoppervlak groter dan 0,07 m2 echter kleiner dan 0,10 m2, in grote groepen, vanaf 30 biggen, gehuisvest 
+D1.1.13	D 1.1.13	volledig rooster met water- en mestkanalen, eventueel voorzien van schuine putwand(en), emitterend mestoppervlak kleiner dan 0,10 m2
+D1.1.14	D 1.1.14	chemisch luchtwassysteem 95% emissiereductie
+D1.1.15.1	D 1.1.15.1	luchtwassystemen anders dan biologisch of chemisch; gecombineerd luchtwassysteem 85% emissiereductie met chemische wasser (lamellenfilter) en waterwasser 
+D1.1.15.2	D 1.1.15.2	luchtwassystemen anders dan biologisch of chemisch; gecombineerd luchtwassysteem 70% emissiereductie met waterwasser, chemische wasser en biofilter 
+D1.1.15.3	D 1.1.15.3	luchtwassystemen anders dan biologisch of chemisch; gecombineerd luchtwassysteem 85% emissiereductie met waterwasser, chemische wasser en biofilter 
+D1.1.15.4	D 1.1.15.4	luchtwassystemen anders dan biologisch of chemisch; gecombineerd luchtwassysteem 85% emissiereductie met watergordijn en biologische wasser 
+D1.1.15.5	D 1.1.15.5	luchtwassystemen anders dan biologisch of chemisch; gecombineerd luchtwassysteem 85% emissiereductie met waterwasser, biologische wasser en geurverwijderingssectie 
+D1.1.15.6	D 1.1.15.6	luchtwassystemen anders dan biologisch of chemisch; gecombineerd luchtwassysteem 90% emissiereductie met een biologische en een chemische wasser en een biofilter 
+D1.1.16	D 1.1.16	biologisch luchtwassysteem 85% emissiereductie
+D1.1.17	D 1.1.17	chemisch luchtwassysteem 90% emissiereductie
+D1.1.18	D 1.1.18	hok met conditionering van de ligvloertemperatuur, mestkelders met water- en mestkanaal, voerbak en watervoorziening boven het waterkanaal, mestkanaal met metalen driekant roostervloer met mestspleet, beide kanalen voorzien van een pan met watervulsysteem, dagelijkse mestafvoer uit het mestkanaal en een emitterend oppervlak van maximaal 0,062 m2 per big
+D1.1.19	D 1.1.19	Biofilter 70% ammoniakemissiereductie
+D1.1.2	D 1.1.2	spoelgotensysteem met dunne mest en gedeeltelijk roostervloer
+D1.1.3	D 1.1.3	mestopvang in water in combinatie met een mestafvoersysteem
+D1.1.4.1	D 1.1.4.1	ondiepe mestkelders met water- en mestkanaal; oppervlak mestkanaal maximaal 0,13 m2 per big 
+D1.1.4.2	D 1.1.4.2	ondiepe mestkelders met water- en mestkanaal; oppervlak mestkanaal maximaal 0,19 m2 per big 
+D1.1.5	D 1.1.5	halfrooster met verkleind mestoppervlak (max. 60% van het totale hokoppervlak bestaat uit een roostervloer)
+D1.1.6	D 1.1.6	mestopvang in en spoelen met aangezuurde vloeistof (volledig roostervloer)
+D1.1.7	D 1.1.7	mestopvang in en spoelen met aangezuurde vloeistof (gedeeltelijk roostervloer)
+D1.1.8	D 1.1.8	gescheiden afvoer van mest en urine door middel van hellende mestband
+D1.1.9	D 1.1.9	biologisch luchtwassysteem 70% emissiereductie
+D1.2.1	D 1.2.1	spoelgotensysteem, spoelen met dunne mest
+D1.2.10	D 1.2.10	biologisch luchtwassysteem 70% emissiereductie
+D1.2.100	D 1.2.100	overige huisvestingssystemen
+D1.2.11	D 1.2.11	chemisch luchtwassysteem 70% emissiereductie
+D1.2.12	D 1.2.12	koeldeksysteem (150% koeloppervlak)
+D1.2.13	D 1.2.13	mestpan onder kraamhok
+D1.2.14	D 1.2.14	mestpan met water- en mestkanaal onder kraamhok
+D1.2.15	D 1.2.15	chemisch luchtwassysteem 95% emissiereductie
+D1.2.16	D 1.2.16	waterkanaal in combinatie met een afgescheiden mestkanaal of mestbak
+D1.2.17.1	D 1.2.17.1	gecombineerd luchtwassysteem 85% emissiereductie met chemische wasser (lamellenfilter) en waterwasser
+D1.2.17.2	D 1.2.17.2	gecombineerd luchtwassysteem 70% emissiereductie met waterwasser, chemische wasser en biofilter
+D1.2.17.3	D 1.2.17.3	gecombineerd luchtwassysteem 85% emissiereductie met waterwasser, chemische wasser en biofilter
+D1.2.17.4	D 1.2.17.4	gecombineerd luchtwassysteem 85% emissiereductie met watergordijn en biologische wasser
+D1.2.17.5	D 1.2.17.5	gecombineerd luchtwassysteem 85% emissiereductie met waterwasser, biologische wasser en geurverwijderingssectie
+D1.2.17.6	D 1.2.17.6	gecombineerd luchtwassysteem 90% emissiereductie met een biologische en een chemische wasser en een biofilter
+D1.2.18	D 1.2.18	biologisch luchtwassysteem 85% emissiereductie
+D1.2.19	D 1.2.19	chemisch luchtwassysteem 90% emissiereductie
+D1.2.2	D 1.2.2	kunststof schijnvloer met schuif onder de roosters
+D1.2.20	D 1.2.20	Mestpan met mestkanaal met koelsysteem en waterkanaal onder het kraamhok
+D1.2.21	D 1.2.21	Biofilter 70% ammoniakemissiereductie
+D1.2.3	D 1.2.3	vlakke, gecoate keldervloer met tandheugelschuifsysteem
+D1.2.4	D 1.2.4	mestschuif met gecoate, hellende keldervloer en giergoot
+D1.2.5	D 1.2.5	mestgoot met mestafvoersysteem
+D1.2.6	D 1.2.6	ondiepe mestkelders met mest- en waterkanaal
+D1.2.7	D 1.2.7	kraamopfokhok met hellende plaat
+D1.2.8	D 1.2.8	mestopvang in en spoelen met aangezuurde vloeistof
+D1.2.9	D 1.2.9	schuiven in mestgoot
+D1.3.1	D 1.3.1	smalle ondiepe mestkanalen met metalen driekantroostervloer en rioleringssysteem (alleen toepasbaar bij individuele huisvesting)
+D1.3.10	D 1.3.10	rondloopstal met zeugenvoerstation en strobed
+D1.3.100	D 1.3.100	overige huisvestingssystemen, groepshuisvesting
+D1.3.101	D 1.3.101	overige huisvestingssystemen, individuele huisvesting
+D1.3.11	D 1.3.11	chemisch luchtwassysteem 95% emissiereductie bij individuele en groepshuisvesting
+D1.3.12.1	D 1.3.12.1	luchtwassystemen anders dan biologisch of chemisch; gecombineerd luchtwassysteem 85% emissiereductie met chemische wasser (lamellenfilter) en waterwasser 
+D1.3.12.2	D 1.3.12.2	luchtwassystemen anders dan biologisch of chemisch; gecombineerd luchtwassysteem 70% emissiereductie met waterwasser, chemische wasser en biofilter 
+D1.3.12.3	D 1.3.12.3	luchtwassystemen anders dan biologisch of chemisch; gecombineerd luchtwassysteem 85% emissiereductie met waterwasser, chemische wasser en biofilter 
+D1.3.12.4	D 1.3.12.4	luchtwassystemen anders dan biologisch of chemisch; gecombineerd luchtwassysteem 85% emissiereductie met watergordijn en biologische wasser 
+D1.3.12.5	D 1.3.12.5	luchtwassystemen anders dan biologisch of chemisch; gecombineerd luchtwassysteem 85% emissiereductie met waterwasser, biologische wasser en geurverwijderingssectie 
+D1.3.12.6	D 1.3.12.6	luchtwassystemen anders dan biologisch of chemisch; gecombineerd luchtwassysteem 90% emissiereductie met een biologische en een chemische wasser en een biofilter 
+D1.3.13	D 1.3.13	biologisch luchtwassysteem 85% emissiereductie
+D1.3.14	D 1.3.14	chemisch luchtwassysteem 90% emissiereductie
+D1.3.15	D 1.3.15	gescheiden afvoer van mest en urine door middel van een V-vormige mestband in het mestkanaal met metalen driekant roosters op het mestkanaal
+D1.3.16	D 1.3.16	hok met kelders met water- en mestkanaal, vloervoedering, mestkanaal met metalen driekant roostervloer met mestspleet, mest- en watergoot met schuine puntwanden, koelsysteem en watervul-/spoelsysteem in mestgoot, dagelijkse mestafvoer en een emitterend oppervlak van maximaal 0,3 m2 per varken
+D1.3.17	D 1.3.17	Biofilter 70% ammoniakemissiereductie
+D1.3.2	D 1.3.2	mestgoot met combinatierooster en frequente mestafvoer (alleen toepasbaar bij individuele huisvesting)
+D1.3.3	D 1.3.3	spoelgotensysteem met dunne mest
+D1.3.4	D 1.3.4	mestopvang in en spoelen met aangezuurde vloeistof
+D1.3.5	D 1.3.5	schuiven in mestgoot (alleen toepasbaar bij individuele huisvesting)
+D1.3.6	D 1.3.6	biologisch luchtwassysteem 70% emissiereductie (bij individuele en groepshuisvesting)
+D1.3.7	D 1.3.7	chemisch luchtwassysteem 70% emissiereductie (bij individuele en groepshuisvesting)
+D1.3.8.1	D 1.3.8.1	koeldeksysteem; 115% koeloppervlak (bij individuele huisvesting) 
+D1.3.8.2	D 1.3.8.2	koeldeksysteem; 135% koeloppervlak (bij groepshuisvesting) 
+D1.3.9.1	D 1.3.9.1	groepshuisvestingssysteem met voerligboxen of zeugenvoerstations, zonder strobed, met schuine putwanden in het mestkanaal; met metalen driekantroosters 
+D1.3.9.2	D 1.3.9.2	groepshuisvestingssysteem met voerligboxen of zeugenvoerstations, zonder strobed, met schuine putwanden in het mestkanaal; roosters anders dan metalen driekant 
+D2.1	D 2.1	biologisch luchtwassysteem 70% emissiereductie
+D2.100	D 2.100	overige huisvestingssystemen
+D2.2	D 2.2	chemisch luchtwassysteem 70% emissiereductie
+D2.3	D 2.3	chemisch luchtwassysteem 95% emissiereductie
+D2.4.1	D 2.4.1	luchtwassystemen anders dan biologisch of chemisch; gecombineerd luchtwassysteem 85% emissiereductie met chemische wasser (lamellenfilter) en waterwasser 
+D2.4.2	D 2.4.2	luchtwassystemen anders dan biologisch of chemisch; gecombineerd luchtwassysteem 70% emissiereductie met waterwasser, chemische wasser en biofilter 
+D2.4.3	D 2.4.3	luchtwassystemen anders dan biologisch of chemisch; gecombineerd luchtwassysteem 85% emissiereductie met waterwasser, chemische wasser en biofilter 
+D2.4.4	D 2.4.4	luchtwassystemen anders dan biologisch of chemisch; gecombineerd luchtwassysteem 85% emissiereductie met watergordijn en biologische wasser 
+D2.4.5	D 2.4.5	luchtwassystemen anders dan biologisch of chemisch; gecombineerd luchtwassysteem 85% emissiereductie met waterwasser, biologische wasser en geurverwijderingssectie 
+D2.4.6	D 2.4.6	luchtwassystemen anders dan biologisch of chemisch; gecombineerd luchtwassysteem 90% emissiereductie met een biologische en een chemische wasser en een biofilter 
+D2.5	D 2.5	biologisch luchtwassysteem 85% emissiereductie
+D2.6	D 2.6	chemisch luchtwassysteem 90% emissiereductie
+D2.7	D 2.7	Biofilter 70% ammoniakemissiereductie
+D3.1	D 3.1	volledig roostervloer
+D3.100	D 3.100	overige huisvestingssystemen
+D3.2.1	D 3.2.1	gedeeltelijk roostervloer; gehele dierplaats onderkelderd zonder stankafsluiter 
+D3.2.10.1	D 3.2.10.1	gedeeltelijk roostervloer; bollevloerhok met betonnen morsrooster en metalen driekantrooster; emitterend mestoppervlak maximaal 0,22 m2 per varken 
+D3.2.10.2	D 3.2.10.2	gedeeltelijk roostervloer; bollevloerhok met betonnen morsrooster en metalen driekantrooster; emitterend mestoppervlak maximaal 0,33 m2 per varken 
+D3.2.11	D 3.2.11	gedeeltelijk roostervloer; hok met gescheiden mestkanalen 
+D3.2.12	D 3.2.12	gedeeltelijk roostervloer; spoelgotensysteem met metalen driekantroosters 
+D3.2.13	D 3.2.13	gedeeltelijk roostervloer; spoelgotensysteem met roosters 
+D3.2.14	D 3.2.14	gedeeltelijk roostervloer; chemisch luchtwassysteem 95% emissiereductie 
+D3.2.15.1	D 3.2.15.1	gedeeltelijk roostervloer; luchtwassystemen anders dan biologisch of chemisch; gecombineerd luchtwassysteem 85% emissiereductie met chemische wasser (lamellenfilter) en waterwasser 
+D3.2.15.2	D 3.2.15.2	gedeeltelijk roostervloer; luchtwassystemen anders dan biologisch of chemisch; gecombineerd luchtwassysteem 70% emissiereductie met waterwasser, chemische wasser en biofilter 
+D3.2.15.3	D 3.2.15.3	gedeeltelijk roostervloer; luchtwassystemen anders dan biologisch of chemisch; gecombineerd luchtwassysteem 85% emissiereductie met waterwasser, chemische wasser en biofilter 
+D3.2.15.4	D 3.2.15.4	gedeeltelijk roostervloer; luchtwassystemen anders dan biologisch of chemisch; gecombineerd luchtwassysteem 85% emissiereductie met watergordijn en biologische wasser 
+D3.2.15.5	D 3.2.15.5	gedeeltelijk roostervloer; luchtwassystemen anders dan biologisch of chemisch; gecombineerd luchtwassysteem 85% emissiereductie met waterwasser, biologische wasser en geurverwijderingssectie 
+D3.2.15.6	D 3.2.15.6	gedeeltelijk roostervloer; luchtwassystemen anders dan biologisch of chemisch; gecombineerd luchtwassysteem 90% emissiereductie met een biologische en een chemische wasser en een biofilter 
+D3.2.16	D 3.2.16	gedeeltelijk roostervloer; gescheiden afvoer van mest en urine door middel van een V-vormige mestband in het mestkanaal met metalen driekant roosters op het mestkanaal 
+D3.2.17	D 3.2.17	gedeeltelijk roostervloer; biologisch luchtwassysteem 85% emissiereductie 
+D3.2.18	D 3.2.18	gedeeltelijk roostervloer; chemisch luchtwassysteem 90% emissiereductie 
+D3.2.19	D 3.2.19	hok met mestkelders met water- en mestkanaal, voerbak en watervoorziening boven het waterkanaal, mestkanaal met metalen driekant roostervloer, mestgoot met schuine putwanden, koelsysteem en watervul-/spoelsysteem, dagelijkse mestafvoer en een emitterend mestoppervlak van maximaal 0,08 m2 per varken
+D3.2.2	D 3.2.2	gedeeltelijk roostervloer; mestopvang in en spoelen met NH3-arme vloeistof (inclusief aanzuren)
+D3.2.20	D 3.2.20	Biofilter 70% ammoniakemissiereductie
+D3.2.3.2	D 3.2.3.2	gedeeltelijk roostervloer; koeldeksysteem met metalen driekantroostervloer (170% koeloppervlak); emitterend oppervlak mestkanaal groter dan 0,5 m2, maar maximaal 0,67 m2 per dierplaats
+D3.2.3.3	D 3.2.3.3	gedeeltelijk roostervloer; koeldeksysteem met metalen driekantroostervloer (170% koeloppervlak); emitterend oppervlak mestkanaal maximaal 0,5 m2 per dierplaats
+D3.2.4	D 3.2.4	gedeeltelijk roostervloer; mestopvang in met formaldehyde behandelde mestvloeistof in combinatie met metalen driekantroostervloer 
+D3.2.5	D 3.2.5	gedeeltelijk roostervloer; mestopvang in water in combinatie met metalen driekant roostervloer 
+D3.2.6.1.1	D 3.2.6.1.1	gedeeltelijk roostervloer; koeldeksysteem (200% koeloppervlak); met metalen roostervloer; emitterend mestoppervlak maximaal 0,8 m2 per varken 
+D3.2.6.1.2	D 3.2.6.1.2	gedeeltelijk roostervloer; koeldeksysteem (200% koeloppervlak); met metalen roostervloer; emitterend mestoppervlak maximaal 0,5 m2 
+D3.2.6.2.1	D 3.2.6.2.1	gedeeltelijk roostervloer; koeldeksysteem (200% koeloppervlak); met roostervloer anders dan metaal; emitterend mestoppervlak maximaal 0,6 m2 per varken 
+D3.2.6.2.2	D 3.2.6.2.2	gedeeltelijk roostervloer; koeldeksysteem (200% koeloppervlak); met roostervloer anders dan metaal; emitterend mestoppervlak groter dan 0,6 m2, doch kleiner dan 0,8 m2 per varken 
+D3.2.7.1.1	D 3.2.7.1.1	gedeeltelijk roostervloer; mestkelders met (water- en) mestkanaal; mestkanaal met schuine putwand; met metalen driekantroosters op het mestkanaal; emitterend mestoppervlak maximaal 0,18 m2 per varken 
+D3.2.7.1.2	D 3.2.7.1.2	gedeeltelijk roostervloer; mestkelders met (water- en) mestkanaal; mestkanaal met schuine putwand; met metalen driekantroosters op het mestkanaal; emitterend mestoppervlak groter dan 0,18 m2, maar kleiner dan 0,27 m2 per varken 
+D3.2.7.2.1	D 3.2.7.2.1	gedeeltelijk roostervloer; mestkelders met (water- en) mestkanaal; mestkanaal met schuine putwand; met roosters anders dan metalen driekant op het mestkanaal; emitterend mestoppervlak maximaal 0,18 m2 per varken 
+D3.2.7.2.2	D 3.2.7.2.2	gedeeltelijk roostervloer; mestkelders met (water- en) mestkanaal; mestkanaal met schuine putwand; met roosters anders dan metalen driekant op het mestkanaal; emitterend mestoppervlak groter dan 0,18 m2, maar kleiner dan 0,27 m2 per varken 
+D3.2.8	D 3.2.8	gedeeltelijk roostervloer; biologisch luchtwassysteem 70% emissiereductie 
+D3.2.9	D 3.2.9	gedeeltelijk roostervloer; chemisch luchtwassysteem 70% emissiereductie 
+D3.3.1	D 3.3.1	beddenstal met maximaal 0,14 m2 emitterend mestoppervlak per dier tot 50 kg levend gewicht en met maximaal 0,29 m2 emitterend mestoppervlak per dier vanaf 50 kg levend gewicht
+D3.3.2	D 3.3.2	overige huisvestingssystemen scharrel vleesvarkens
+E1.1	E 1.1	open mestopslag onder de batterij al dan niet voorzien van een mestschuif (flat-deck-kooien, trapkooien of compactkooien voor natte mest)
+E1.10	E 1.10	biologisch luchtwassysteem 70% emissiereductie
+E1.100	E 1.100	overige huisvestingssystemen niet-batterijhuisvesting
+E1.101	E 1.101	overige huisvestingssystemen batterijhuisvesting
+E1.11	E 1.11	stal met verwarmingssysteem met warmteheaters en ventilatoren
+E1.12	E 1.12	biofilter 70% emissiereductie
+E1.13	E 1.13	chemisch luchtwassysteem 70% emissiereductie
+E1.14	E 1.14	opfokhuisvesting met verhoogde roostervloer met daarboven oplierbare en/of opklapbare roosters
+E1.15	E 1.15	chemisch luchtwassysteem 70% emissiereductie
+E1.16	E 1.16	stal met warmteheaters met luchtmengsysteem voor droging strooisellaag
+E1.2	E 1.2	mestbandbatterij voor natte mest met afvoer naar een gesloten opslag (minimaal 2 maal per week ontmesten)
+E1.3	E 1.3	compactbatterij waarvan de natte mest 2 maal daags door middel van mestschuiven en een centrale mestband afgevoerd wordt naar een gesloten opslag
+E1.4	E 1.4	batterij met geforceerde mestdroging (kanalenstal)
+E1.5.1	E 1.5.1	mestbandbatterij met geforceerde mestdroging; mestbandbatterij voor droge mest met geforceerde mestdroging 
+E1.5.2	E 1.5.2	mestbandbatterij met geforceerde mestdroging; mestbandbatterij met geforceerde mestdroging, belucht met 0,4 m3 lucht per opfokhen per uur; mestafdraaien per vijf dagen, de mest heeft dan een droge stofgehalte van minimaal 55% 
+E1.5.3	E 1.5.3	mestbandbatterij met geforceerde mestdroging; batterijhuisvesting volgens categorie E 1.5.1 met chemisch luchtwassysteem met 90% emissiereductie 
+E1.5.4	E 1.5.4	mestbandbatterij met geforceerde mestdroging; batterijhuisvesting volgens categorie E 1.5.2 met chemisch luchtwassysteem met 90% emissiereductie 
+E1.5.5	E 1.5.5	mestbandbatterij met geforceerde mestdroging; koloniehuisvesting met mestbandbeluchting (0,7 m3 per dier per uur) 
+E1.6	E 1.6	batterijsysteem met mestbandbeluchting en bovenliggende droogtunnel
+E1.7	E 1.7	grondhuisvesting (strooiselvloer, roostervloer)
+E1.8.1	E 1.8.1	volièrehuisvesting; minimaal 50% van de leef ruimte is rooster, met daaronder een mestband. Mestbanden minimaal eenmaal per week afdraaien. Roosters minimaal in twee etages 
+E1.8.2	E 1.8.2	volièrehuisvesting; 65 - 70% van de leefruimte is rooster, met daaronder een mestband met 0,3 m3 per dier per uur mestbeluchting. Mestbanden minimaal eenmaal per week afdraaien. Roosters minimaal in twee etages. 
+E1.8.3.1	E 1.8.3.1	volièrehuisvesting; 45 - 55% van de leefruimte is rooster met daaronder een mestband, mestbanden minimaal tweemaal per week afdraaien; met 0,1 m3 per dier per uur beluchting
+E1.8.3.2	E 1.8.3.2	volièrehuisvesting; 45 - 55% van de leefruimte is rooster met daaronder een mestband, mestbanden minimaal tweemaal per week afdraaien; met 0,3 m3 per dier per uur beluchting
+E1.8.4	E 1.8.4	volièrehuisvesting; 30 - 35% van de leefruimte is rooster met daaronder een mestband met 0,4 m3 per dier per uur beluchting, mestbanden minimaal éénmaal per week afdraaien 
+E1.8.5	E 1.8.5	volièrehuisvesting; 55 - 60% van de leefruimte is rooster met daaronder een mestband met 0,4 m³ per dier per uur beluchting, mestbanden minimaal éénmaal per week afdraaien 
+E1.9	E 1.9	chemisch luchtwassysteem 90% emissiereductie
+E2.1	E 2.1	open mestopslag onder de batterij al dan niet voorzien van een mestschuif (flat-deck-kooien, trapkooien of compactkooien voor natte mest)
+E2.10	E 2.10	chemisch luchtwassysteem 90% emissiereductie
+E2.100	E 2.100	overige huisvestingssystemen niet-batterijhuisvesting
+E2.101	E 2.101	overige huisvestingssystemen batterijhuisvesting
+E2.11.1	E 2.11.1	volièrehuisvesting; minimaal 50% van de leefruimte is rooster met daaronder een mestband. Mestbanden minimaal eenmaal per week afdraaien. Roosters minimaal in twee etages. 
+E2.11.2.1	E 2.11.2.1	volièrehuisvesting; 45 - 55% van de leefruimte roosters met daaronder een mestband met beluchting. Mestbanden minimaal tweemaal per week afdraaien. Roosters minimaal in twee etages; beluchtingcapaciteit minimaal 0,2 m³ per dier per uur
+E2.11.2.2	E 2.11.2.2	volièrehuisvesting; 45 - 55% van de leefruimte roosters met daaronder een mestband met beluchting. Mestbanden minimaal tweemaal per week afdraaien. Roosters minimaal in twee etages; beluchtingcapaciteit minimaal 0,5 m³ per dier per uur
+E2.11.3	E 2.11.3	volièrehuisvesting; 30-35% van de leefruimte roosters met daaronder een mestband met 0,7 m3 per dier per uur mestbeluchting. Mestbanden minimaal eenmaal per week afdraaien. Roosters minimaal in twee etages. 
+E2.11.4	E 2.11.4	volièrehuisvesting; 55-60% van de leefruimte roosters met daaronder een mestband met 0,7 m3 per dier per uur mestbeluchting. Mestbanden minimaal eenmaal per week afdraaien. Roosters minimaal in twee etages. 
+E2.12.1	E 2.12.1	Scharrelhuisvesting; scharrelstal in twee verdiepingen met mestbanden onder de roosters (twee maal per week afdraaien), bezetting 9 dieren per m2 
+E2.12.2	E 2.12.2	scharrelhuisvesting met frequente mest- en strooiselverwijdering
+E2.13	E 2.13	biologisch luchtwassysteem 70% emissiereductie
+E2.14	E 2.14	biofilter 70% emissiereductie
+E2.15	E 2.15	chemisch luchtwassysteem 70% emissiereductie
+E2.16	E 2.16	chemisch luchtwassysteem 70% emissiereductie
+E2.2	E 2.2	mestbandbatterij voor natte mest met afvoer naar een gesloten opslag (minimaal 2 maal per week ontmesten)
+E2.3	E 2.3	compactbatterij waarvan de natte mest 2 maal daags door middel van mestschuiven en een centrale mestband afgevoerd wordt naar een gesloten opslag
+E2.4	E 2.4	batterij met geforceerde mestdroging (deeppitstal of highrisestal, kanalenstal)
+E2.5.1	E 2.5.1	mestbandbatterij met geforceerde mestdroging; mestbandbatterij voor droge mest met geforceerde mestdroging 
+E2.5.2	E 2.5.2	mestbandbatterij met geforceerde mestdroging; mestbandbatterij met geforceerde mestdroging, belucht met 0,7 m3 lucht per dier per uur. Mestafdraaien per vijf dagen; de mest heeft dan een droge stofgehalte van minimaal 55% 
+E2.5.3	E 2.5.3	mestbandbatterij met geforceerde mestdroging; batterijhuisvesting volgens categorie E 2.5.1 met chemisch luchtwassysteem met 90% emissiereductie 
+E2.5.4	E 2.5.4	mestbandbatterij met geforceerde mestdroging; batterijhuisvesting volgens categorie E 2.5.2 met chemisch luchtwassysteem met 90% emissiereductie 
+E2.5.5	E 2.5.5	mestbandbatterij met geforceerde mestdroging; verrijkte kooien met mestbandbeluchting (0,7 m3 per dier per uur) 
+E2.5.6	E 2.5.6	mestbandbatterij met geforceerde mestdroging; koloniehuisvesting met mestbandbeluchting (0,7 m3 per dier per uur) 
+E2.6	E 2.6	batterijsysteem met mestbandbeluchting en bovenliggende droogtunnel
+E2.7	E 2.7	grondhuisvesting van legrassen (circa 1/3 strooiselvloer en circa 2/3 roostervloer)
+E2.8	E 2.8	grondhuisvesting met beluchting onder gedeeltelijk verhoogde roostervloer (perfosysteem)
+E2.9.1	E 2.9.1	grondhuisvesting met mestbeluchting via buizen; grondhuisvesting met mestbeluchting via buizen onder de beun 
+E2.9.2	E 2.9.2	grondhuisvesting met mestbeluchting via buizen; grondhuisvesting met enkele buis onder de beun aan weerszijden van het legnest 
+E2.9.3	E 2.9.3	grondhuisvesting met mestbeluchting door middel van verticale ventilatiekokers
+E3.1	E 3.1	chemisch luchtwassysteem 90% emissiereductie
+E3.10	E 3.10	chemisch luchtwassysteem 70% emissiereductie
+E3.100	E 3.100	overige huisvestingssystemen
+E3.2	E 3.2	biologisch luchtwassysteem 70% emissiereductie
+E3.3	E 3.3	stal met mixluchtventilatie
+E3.4	E 3.4	stal met verwarmingssysteem met warmteheaters en ventilatoren
+E3.5	E 3.5	biofilter 70% emissiereductie
+E3.6	E 3.6	chemisch luchtwassysteem 70% emissiereductie
+E3.7	E 3.7	stal met warmteheaters met luchtmengsysteem voor droging strooisellaag
+E3.8	E 3.8	stal met luchtmengsysteem voor droging strooisellaag in combinatie met een warmtewisselaar
+E3.9	E 3.9	stal met buizenverwarming
+E4.1	E 4.1	groepskooi voorzien van mestband en geforceerde mestdroging
+E4.10	E 4.10	chemisch luchtwassysteem 70% emissiereductie
+E4.100	E 4.100	overige huisvestingssystemen
+E4.11	E 4.11	chemisch luchtwassysteem 70% emissiereductie
+E4.2	E 4.2	volièrehuisvesting met geforceerde mestdroging
+E4.3	E 4.3	volièrehuisvesting met geforceerde mest- en strooiseldroging
+E4.4.1	E 4.4.1	grondhuisvesting met mestbeluchting; mestbeluchting van bovenaf 
+E4.4.2	E 4.4.2	grondhuisvesting met mestbeluchting; mestbeluchting met verticale slangen in de mest 
+E4.4.3	E 4.4.3	grondhuisvesting met mestbeluchting; grondhuisvesting met mestbeluchting via buizen onder de beun 
+E4.4.4	E 4.4.4	grondhuisvesting met mestbeluchting; grondhuisvesting met mestbeluchting door middel van verticale ventilatiekokers 
+E4.5	E 4.5	perfosysteem op gedeeltelijk verhoogde roostervloer
+E4.6	E 4.6	chemisch luchtwassysteem 90% emissiereductie
+E4.7	E 4.7	biologisch luchtwassysteem 70% emissiereductie
+E4.8	E 4.8	grondhuisvesting, mestbanden onder de roosters, mestbanden minimaal tweemaal per week afdraaien
+E4.9	E 4.9	biofilter 70% emissiereductie
+E5.1	E 5.1	zwevende vloer met strooiseldroging
+E5.10	E 5.10	stal met verwarmingssysteem met warmteheaters en ventilatoren
+E5.100	E 5.100	overige huisvestingssystemen
+E5.11	E 5.11	stal met luchtmengsysteem voor droging strooisellaag in combinatie met een warmtewisselaar
+E5.12	E 5.12	biofilter 70% emissiereductie
+E5.13	E 5.13	chemisch luchtwassysteem 70% emissiereductie
+E5.14	E 5.14	stal met warmteheaters met luchtmengsysteem voor droging strooisellaag
+E5.15	E 5.15	Stal met buizenverwarming
+E5.16	E 5.16	chemisch luchtwassysteem 70% emissiereductie
+E5.2	E 5.2	geperforeerde vloer met strooiseldroging
+E5.3	E 5.3	etagesysteem met volledige roostervloer en mestbandbeluchting
+E5.4	E 5.4	chemisch luchtwassysteem 90% emissiereductie
+E5.5	E 5.5	grondhuisvesting met vloerverwarming en vloerkoeling
+E5.6	E 5.6	stal met mixluchtventilatie
+E5.7	E 5.7	biologisch luchtwassysteem 70% emissiereductie
+E5.8	E 5.8	etagesysteem met mestband en strooiseldroging
+E5.9.1.1.1	E 5.9.1.1.1	uitbroeden eieren en opfokken vleeskuikens tot 13 dagen in stal en vervolghuisvesting in E 5.5 (grondhuisvesting met vloerverwarming en vloerkoeling)
+E5.9.1.1.100	E 5.9.1.1.100	uitbroeden eieren en opfokken vleeskuikens tot 13 dagen in stal en vervolghuisvesting in E 5.100 (overige huisvestingsystemen)
+E5.9.1.1.2	E 5.9.1.1.2	uitbroeden eieren en opfokken vleeskuikens tot 13 dagen in stal en vervolghuisvesting in E 5.6 (stal met mixluchtventilatie)
+E5.9.1.1.3	E 5.9.1.1.3	uitbroeden eieren en opfokken vleeskuikens tot 13 dagen in stal en vervolghuisvesting in E 5.8 (etagesysteem met mestband en strooiseldroging)
+E5.9.1.1.4	E 5.9.1.1.4	uitbroeden eieren en opfokken vleeskuikens tot 13 dagen in stal en vervolghuisvesting in E 5.10 (stal met verwarmingssysteem met warmteheaters en ventilatoren)
+E5.9.1.1.5	E 5.9.1.1.5	uitbroeden eieren en opfokken vleeskuikens tot 13 dagen in stal en vervolghuisvesting in E 5.11 (vleeskuikenstal met luchtmengsysteem voor droging strooisellaag in combinatie met een warmtewisselaar)
+E5.9.1.1.6	E 5.9.1.1.6	uitbroeden eieren en opfokken vleeskuikens tot 13 dagen in stal en vervolghuisvesting in E 5.15 (vleeskuikenstal met buizenverwarming)
+E5.9.1.2.1	E 5.9.1.2.1	uitbroeden eieren en opfokken vleeskuikens tot 19 dagen in stal en vervolghuisvesting in E 5.5 (grondhuisvesting met vloerverwarming en vloerkoeling)
+E5.9.1.2.100	E 5.9.1.2.100	uitbroeden eieren en opfokken vleeskuikens tot 19 dagen in stal en vervolghuisvesting in E 5.100 (overige huisvestingsystemen)
+E5.9.1.2.2	E 5.9.1.2.2	uitbroeden eieren en opfokken vleeskuikens tot 19 dagen in stal en vervolghuisvesting in E 5.6 (stal met mixluchtventilatie)
+E5.9.1.2.3	E 5.9.1.2.3	uitbroeden eieren en opfokken vleeskuikens tot 19 dagen in stal en vervolghuisvesting in E 5.8 (etagesysteem met mestband en strooiseldroging)
+E5.9.1.2.4	E 5.9.1.2.4	uitbroeden eieren en opfokken vleeskuikens tot 19 dagen in stal en vervolghuisvesting in E 5.10 (stal met verwarmingssysteem met warmteheaters en ventilatoren)
+E5.9.1.2.5	E 5.9.1.2.5	uitbroeden eieren en opfokken vleeskuikens tot 19 dagen in stal en vervolghuisvesting in E 5.11 (vleeskuikenstal met luchtmengsysteem voor droging strooisellaag in combinatie met een warmtewisselaar)
+E5.9.1.2.6	E 5.9.1.2.6	uitbroeden eieren en opfokken vleeskuikens tot 19 dagen in stal en vervolghuisvesting in E 5.15 (vleeskuikenstal met buizenverwarming)
+F1.1	F 1.1	chemisch luchtwassysteem 90% emissiereductie
+F1.100	F 1.100	overige huisvestingssystemen
+F1.2	F 1.2	biologisch luchtwassysteem 70% emissiereductie
+F1.3	F 1.3	stal met verwarmingssysteem met warmteheaters en ventilatoren
+F1.4	F 1.4	biofilter 70% emissiereductie
+F1.5	F 1.5	chemisch luchtwassysteem 70% emissiereductie
+F1.6	F 1.6	stal met warmteheaters met luchtmengsysteem voor droging strooisellaag
+F1.7	F 1.7	stal met luchtmengsysteem voor droging strooisellaag in combinatie met een warmtewisselaar
+F1.8	F 1.8	stal met buizenverwarming
+F1.9	F 1.9	chemisch luchtwassysteem 70% emissiereductie
+F2.1	F 2.1	chemisch luchtwassysteem 90% emissiereductie
+F2.100	F 2.100	overige huisvestingssystemen
+F2.2	F 2.2	biologisch luchtwassysteem 70% emissiereductie
+F2.3	F 2.3	stal met verwarmingssysteem met warmteheaters en ventilatoren
+F2.4	F 2.4	biofilter 70% emissiereductie
+F2.5	F 2.5	chemisch luchtwassysteem 70% emissiereductie
+F2.6	F 2.6	stal met warmteheaters met luchtmengsysteem voor droging strooisellaag
+F2.7	F 2.7	stal met luchtmengsysteem voor droging strooisellaag in combinatie met een warmtewisselaar
+F2.8	F 2.8	chemisch luchtwassysteem 70% emissiereductie
+F3.1	F 3.1	chemisch luchtwassysteem 90% emissiereductie
+F3.100	F 3.100	overige huisvestingssystemen
+F3.2	F 3.2	biologisch luchtwassysteem 70% emissiereductie
+F3.3	F 3.3	biofilter 70% emissiereductie
+F3.4	F 3.4	chemisch luchtwassysteem 70% emissiereductie
+F3.5	F 3.5	chemisch luchtwassysteem 70% emissiereductie
+F4.1	F 4.1	gedeeltelijk verhoogde strooiselvloer
+F4.10	F 4.10	chemisch luchtwassysteem 70% emissiereductie
+F4.100	F 4.100	overige huisvestingssystemen
+F4.2	F 4.2	chemisch luchtwassysteem 90% emissiereductie
+F4.3	F 4.3	mechanisch geventileerde stal met frequente strooiselverwijdering
+F4.4	F 4.4	biologisch luchtwassysteem 70% emissiereductie
+F4.5	F 4.5	stal met verwarmingssysteem met warmteheaters en ventilatoren
+F4.6	F 4.6	biofilter 70% emissiereductie
+F4.7	F 4.7	chemisch luchtwassysteem 70% emissiereductie
+F4.8	F 4.8	stal met warmteheaters met luchtmengsysteem voor droging strooisellaag
+F4.9	F 4.9	stal met luchtmengsysteem voor droging strooisellaag in combinatie met een warmtewisselaar
+G1.1	G 1.1	chemisch luchtwassysteem 90% emissiereductie
+G1.100	G 1.100	overig huisvestingssystemen
+G1.2	G 1.2	biologisch luchtwassysteem 70% emissiereductie
+G1.3	G 1.3	chemisch luchtwassysteem 70% emissiereductie
+G1.4	G 1.4	biofilter 70% emissiereductie
+G1.5	G 1.5	chemisch luchtwassysteem 70% emissiereductie
+G2.1.1	G 2.1.1	binnen mesten; chemisch luchtwassysteem 90% emissiereductie 
+G2.1.100	G 2.1.100	binnen mesten; overig huisvestingssystemen
+G2.1.2	G 2.1.2	binnen mesten; biologisch luchtwassysteem 70% emissiereductie 
+G2.1.3	G 2.1.3	binnen mesten; chemisch luchtwassysteem 70% emissiereductie 
+G2.1.4	G 2.1.4	binnen mesten; biofilter 70% emissiereductie 
+G2.1.5	G 2.1.5	chemisch luchtwassysteem 70% emissiereductie
+G2.2	G 2.2	buiten mesten (per afgeleverde eend)
+H1.1	H 1.1	open mestopslag onder de kooi
+H1.2	H 1.2	dagontmesting met afvoer naar een gesloten opslag
+I1.1	I 1.1	mechanisch geventileerde stal met gescheiden afvoer van mest en urine
+I1.100	I 1.100	overige huisvestingssystemen
+I1.2	I 1.2	mechanisch geventileerde stal met een biologisch luchtwassysteem 70% emissiereductie
+I1.3	I 1.3	mechanisch geventileerde stal met een chemisch luchtwassysteem 70% emissiereductie
+I1.4	I 1.4	mechanisch geventileerde stal met een chemisch luchtwassysteem 90% emissiereductie
+I2.1	I 2.1	mechanisch geventileerde stal met gescheiden afvoer van mest en urine
+I2.100	I 2.100	overige huisvestingssystemen
+I2.2	I 2.2	mechanisch geventileerde stal met een biologisch luchtwassysteem 70% emissiereductie
+I2.3	I 2.3	mechanisch geventileerde stal met een chemisch luchtwassysteem 70% emissiereductie
+I2.4	I 2.4	mechanisch geventileerde stal met een chemisch luchtwassysteem 90% emissiereductie
+K1.100	K 1.100	overige huisvestingssystemen
+K2.100	K 2.100	overige huisvestingssystemen
+K3.100	K 3.100	overige huisvestingssystemen
+K4.100	K 4.100	overige huisvestingssystemen
+L1.100	L 1.100	overige huisvestingssystemen
+L2.100	L 2.100	overige huisvestingssystemen
+L3.100	L 3.100	overige huisvestingssystemen
