@@ -495,6 +495,31 @@ This object can be used to store information about an archive project.</document
           <documentation>The version of AERIUS that was used to calculate the results.</documentation>
         </annotation>
       </element>
+      <element minOccurs="0" name="projectType" type="string">
+        <annotation>
+          <documentation>The type of the project.</documentation>
+        </annotation>
+      </element>
+      <element minOccurs="0" name="permitReference" type="string">
+        <annotation>
+          <documentation>The permit reference of the project.</documentation>
+        </annotation>
+      </element>
+      <element minOccurs="0" name="planningReference" type="string">
+        <annotation>
+          <documentation>The planning reference of the project.</documentation>
+        </annotation>
+      </element>
+      <element maxOccurs="unbounded" minOccurs="0" name="netEmission" type="IMAER:EmissionPropertyType">
+        <annotation>
+          <documentation>The net emission(s) of the project.</documentation>
+        </annotation>
+      </element>
+      <element minOccurs="0" name="centroid" type="gml:PointPropertyType">
+        <annotation>
+          <documentation>The centroid of all the sources of the project.</documentation>
+        </annotation>
+      </element>
     </sequence>
   </complexType>
   <complexType name="ArchiveProjectPropertyType">
