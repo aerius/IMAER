@@ -1,0 +1,37 @@
+code	name	description
+HA1	HA1	Melk- en kalfkoeien van 2 jaar en ouder (inclusief kalveren jonger dan 14 dagen)
+HA2	HA2	Vrouwelijk jongvee jonger dan 2 jaar, fokstieren jonger dan 2 jaar
+HA3	HA3	Vleeskalveren jonger dan 1 jaar
+HA4	HA4	Zoogkoeien van 2 jaar en ouder (inclusief ongespeende kalveren)
+HA5	HA5	Overig vleesvee vanaf spenen en jonger dan 2 jaar
+HA6	HA6	Overig rundvee van 2 jaar en ouder
+HB1	HB1	Schapen van 1 jaar en ouder (inclusief lammeren)
+HC1	HC1	Geiten van 1 jaar en ouder
+HC2	HC2	Geiten vanaf 61 dagen tot 1 jaar
+HC3	HC3	Geiten tot 61 dagen
+HD1	HD1	Gespeende biggen minder dan 25 kg
+HD2	HD2	Kraamzeugen (inclusief biggen tot spenen)
+HD3	HD3	Guste en dragende zeugen
+HD4	HD4	Dekberen van 7 maanden en ouder
+HD5	HD5	Vleesvarkens van 25 kg en meer, opfokberen van 25 kg en meer en jonger dan 7 maanden opfokzeugen van 25 kg en meer
+HE1	HE1	Opfokhennen en -hanen van legkippen jonger dan 18 weken, kooihuisvesting
+HE2	HE2	Legkippen van 18 weken en ouder, ouderdieren van legkippen van 18 weken en ouder, kooihuisvesting
+HE3	HE3	Ouderdieren van vleeskuikens in opfok jonger dan 19 weken
+HE4	HE4	Ouderdieren van vleeskuikens van 19 weken en ouder
+HE5	HE5	Vleeskuikens
+HF1	HF1	Vleesparelhoenders
+HG1	HG1	Ouderdieren van vleeskalkoenen jonger dan 6 weken
+HG2	HG2	Ouderdieren van vleeskalkoenen van 6 weken en ouder en jonger dan 30 weken
+HG3	HG3	Ouderdieren van vleeskalkoenen van 30 weken en ouder
+HG4	HG4	Vleeskalkoenen
+HH1	HH1	Ouderdieren van vleeseenden
+HH2	HH2	Vleeseenden, binnen mesten
+HI1	HI1	Struisvogels jonger dan 4 maanden
+HI2	HI2	Struisvogels van 4 maanden en ouder en jonger dan 12 maanden
+HI3	HI3	Struisvogels van 12 maanden en ouder
+HK1	HK1	Voedster
+HK2	HK2	Vlees- en opfokkonijnen tot dekleeftijd
+HL1	HL1	Paarden van 3 jaar en ouder
+HL2	HL2	Paarden jonger dan 3 jaar
+HL3	HL3	Pony's van 3 jaar en ouder
+HL4	HL4	Pony's jonger dan 3 jaar

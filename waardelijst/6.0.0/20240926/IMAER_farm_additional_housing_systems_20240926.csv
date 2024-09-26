@@ -1,0 +1,48 @@
+code	name	description
+AP1.1	AP1.1	Oliefilm met drukleidingen
+AP1.2	AP1.2	Oliefilm met sproeikoppen
+AP1.3	AP1.3	Oliefilm met robot
+AP100.1	AP100.1	Droogfilterwand
+AP100.2	AP100.2	Strooiselschuif
+AP100.3	AP100.3	Luchtconditioneringsunit
+AP100.4	AP100.4	Warmtewisselaar; 1-95% reductie PM10
+AP100.5	AP100.5	Stoffilter met 99% verwijdering PM10
+AP2.1	AP2.1	Ionisatie met negatieve coronadraden
+AP2.2	AP2.2	Ionisatiefilter
+AP2.3	AP2.3	Ionisatie met koolstofborsteltjes
+AP2.4	AP2.4	Ionisatie met negatieve coronadraden (prikkeldraad)
+AP2.5	AP2.5	Ionisatie-units met ingebouwde coronadraden en ingebouwd collectoroppervlak
+AP3.1	AP3.1	Droogtunnel met geperforeerde banden
+AP3.2	AP3.2	Droogtunnel met geperforeerde metalen platen
+AP3.3	AP3.3	Mestdroogsysteem met geperforeerde doek
+AP4.1	AP4.1	Uitbroeden eieren en opfokken vleeskuikens tot 13 dagen
+AP4.2	AP4.2	Uitbroeden eieren en opfokken vleeskuikens tot 19 dagen
+AR1.1	AR1.1	Beweiden
+AV1.1	AV1.1	Schuine wanden in mestkanaal
+AV1.2	AV1.2	Schuine wanden in mestkanaal
+AV1.3	AV1.3	Schuine wanden in mestkanaal
+AV100.1	AV100.1	Drijvende ballen in mest
+LW1.1	LW1.1	Biologisch luchtwassysteem
+LW1.2	LW1.2	Biologisch luchtwassysteem
+LW1.3	LW1.3	Biologisch luchtwassysteem
+LW1.4	LW1.4	Biologisch luchtwassysteem
+LW1.5	LW1.5	Biologisch luchtwassysteem
+LW1.6	LW1.6	Biofilter
+LW1.7	LW1.7	Biofilter waarvoor voor 1 januari 2024 een omgevingsvergunning is verleend als bedoeld in artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht of waarvoor tussen 1 januari 2024 en 20 juli 2025 een omgevingsvergunning voor een milieubelastende activiteit is verleend, of, als een vergunning niet nodig was, dat rechtmatig in gebruik is genomen voor 20 juli 2025.
+LW2.1	LW2.1	Chemisch luchtwassysteem
+LW2.10	LW2.10	Chemisch luchtwassysteem
+LW2.2	LW2.2	Chemisch luchtwassysteem
+LW2.3	LW2.3	Chemisch luchtwassysteem
+LW2.4	LW2.4	Chemisch luchtwassysteem
+LW2.5	LW2.5	Chemisch luchtwassysteem
+LW2.6	LW2.6	Chemisch luchtwassysteem
+LW2.7	LW2.7	Chemisch luchtwassysteem
+LW2.8	LW2.8	Chemisch luchtwassysteem
+LW2.9	LW2.9	Chemisch luchtwassysteem
+LW3.1	LW3.1	Water luchtwassysteem
+LW4.1	LW4.1	Biologische luchtwassysteem met watergordijn
+LW4.2	LW4.2	Biologisch en water luchtwassysteem met geurverwijderingssectie
+LW4.3	LW4.3	Biologisch en chemisch luchtwassysteem met biofilter
+LW4.4	LW4.4	Chemisch luchtwassysteem (lamellenfilter) en water luchtwassysteem
+LW4.5	LW4.5	Chemisch en water luchtwassysteem met biofilter
+LW4.6	LW4.6	Chemisch en water luchtwassysteem met biofilter
